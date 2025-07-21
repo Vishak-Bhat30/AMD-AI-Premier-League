@@ -1,0 +1,2037 @@
+[
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre.   AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H.   B is 2nd to the right of H.   E is 3rd to the right of C.      Who is 2nd to the left of A?",
+    "choice": [
+      "A) D",
+      "B) G",
+      "C) F",
+      "D) Cannot be determined"
+    ],
+    "answer": "D) Cannot be determined",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre.   AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H.   B is 2nd to the right of H.   E is 3rd to the right of C.      Who is 3rd to the left of C?",
+    "choice": [
+      "A) None of these",
+      "B) D",
+      "C) B",
+      "D) Cannot be determined"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre.   AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H.   B is 2nd to the right of H.   E is 3rd to the right of C.      What is C’s position with reference to E? rd",
+    "choice": [
+      "A) 5th to the right",
+      "B) 4th to the left",
+      "C) 4th to the right",
+      "D) 3 to the right"
+    ],
+    "answer": "A) 5th to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre.   AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H.   B is 2nd to the right of H.   E is 3rd to the right of C.      Who is 2nd to the right of A?",
+    "choice": [
+      "A) B",
+      "B) E",
+      "C) F",
+      "D) Cannot be determined"
+    ],
+    "answer": "B) E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre.   AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H.   B is 2nd to the right of H.   E is 3rd to the right of C.      Who among the following pairs may not be seated adjacent to each other?",
+    "choice": [
+      "A) AH",
+      "B) DC",
+      "C) EB",
+      "D) Cannot be determined"
+    ],
+    "answer": "B) DC",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      For which of the following departments does B work?",
+    "choice": [
+      "A) Finance",
+      "B) Marketing",
+      "C) HR",
+      "D) Corporate Finance e) Operations"
+    ],
+    "answer": "A) Finance",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      What is position of B with respect to the person who works for Sales Department?",
+    "choice": [
+      "A) Immediate right",
+      "B) Third to the left",
+      "C) Second to the right",
+      "D) Second to the left"
+    ],
+    "answer": "D) Second to the left",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      Who sits to the immediate right of E? www.BankExasmToday.com  Page 1  www.BankExamsToday.com   Seating Arrangement Workbook",
+    "choice": [
+      "A) The person who works for Marketing Department",
+      "B) C",
+      "C) B",
+      "D) The person who works for HR Department"
+    ],
+    "answer": "D) The person who works for HR Department",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      Who amongst the following sits exactly between C and the person who works for HR  www.BankExamsToday.com",
+    "choice": [
+      "A) B",
+      "B) The person who works for Marketing Department",
+      "C) The person who works for Operations Department",
+      "D) D"
+    ],
+    "answer": "B) The person who works for Marketing Department",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      Who amongst the following sit between the persons who work for Marketing and Investment Marketing Department?",
+    "choice": [
+      "A) F and G",
+      "B) E and C",
+      "C) )C and B",
+      "D) F and D"
+    ],
+    "answer": "C) )C and B",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre   or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR,   Corporate Finance, Investment Banking and Operations but not necessarily in the same order.   C sits third to the right of G. G faces the centre. Only one person sits between C and the   person working in the HR department immediate neighbours of C face outside. Only one person sits   between F and D. Both F and D face the centre. D does not work in the HR department. A works in   Investment Banking Department. A faces the centre. Two people sit between the persons who work in   Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to   the immediate left of E. C faces same direction as E. The person who works in corporate finance sits   to the immediate left of the person who works for Operations Department.      How many people sit between the person who workds for Operations Department and A, when counted from the right hand side of A?",
+    "choice": [
+      "A) One",
+      "B) Two",
+      "C) Three",
+      "D) Four"
+    ],
+    "answer": "A) One",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Which of the following is true regarding E?",
+    "choice": [
+      "A) The person from Bank of Maharashtra faces E",
+      "B) The person from Dena Bank is an immediate neighbour of E",
+      "C) The person who is second to the right of G faces E",
+      "D) E is from Union Bank of India"
+    ],
+    "answer": "B) The person from Dena Bank is an immediate neighbour of E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Who is seated between G and the person from Bank of Maharashtra? www.BankExasmToday.com  Page 2  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) The person from Bank of Baroda",
+      "B) H",
+      "C) F",
+      "D) E"
+    ],
+    "answer": "A) The person from Bank of Baroda",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Who amongst the following sit at extrememe end of the row?  www.BankExamsToday.com",
+    "choice": [
+      "A) A and the person from Bank of Maharashtra",
+      "B) The person from Punjab National Bank and Union Bank of India",
+      "C) The person from Dena Bank and E",
+      "D) The person from Union Bank of India and C"
+    ],
+    "answer": "D) The person from Union Bank of India and C",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Who amongst the following faces the person from Bank of Baroda?",
+    "choice": [
+      "A) The person from Bank of India",
+      "B) F",
+      "C) A",
+      "D) The person from Union Bank of India"
+    ],
+    "answer": "A) The person from Bank of India",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      ‘B’ is related to ‘Dena Bank’ in the same way as ‘F’ is related to ‘Bank of Baorda’ on the given arrangement, who amongst the following is ‘G’ related to following the same pattern?",
+    "choice": [
+      "A) Oriental Bank of Commerce",
+      "B) Punjab National Bank",
+      "C) Bank of India",
+      "D) Canara Bank"
+    ],
+    "answer": "B) Punjab National Bank",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Four of the following five are alike in a certain way based on the given seating arrangement",
+    "choice": [
+      "A) Bank of Maharashtra",
+      "B) C",
+      "C) Union Bank of India",
+      "D) Oriental Bank of Commerce"
+    ],
+    "answer": "A) Bank of Maharashtra",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      G is from which of the following banks?",
+    "choice": [
+      "A) Oriental Bank of Commerce",
+      "B) Dena Bank",
+      "C) Bank of Maharashtra",
+      "D) Canara Bank"
+    ],
+    "answer": "A) Oriental Bank of Commerce",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given questions.   Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank,   Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of   Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an   equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H.   Each members seated in a row faces another member of the other row. (All the information given   above does not necessarily represents the order of seating as in the final arrangement)                  A faces north and seated second to the left of the person, who is from Punjab National Bank.   The person from Oriental Bank of Commerce is opposite to one who is second to the left of   H.   The persons from Bank of Baroda is not near to H and F and not at the end of the row. The   person from Canara Bank is opposite to the person who is from Dena Bank.   The person from Bank of India is not at the end of the row but left of the person who is from   Canara Bank.   D is immediately right of the person who is from Bank of Maharashtra. The person from   Canara Bank faces north while D faces South and opposite to B.      The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite   to C.      Who amongst the following is from Punjab National Bank?",
+    "choice": [
+      "A) E",
+      "B) H",
+      "C) G",
+      "D) C"
+    ],
+    "answer": "B) H",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      Who is sitting between A and H?   www.BankExamsToday.com",
+    "choice": [
+      "A) F",
+      "B) B",
+      "C) G"
+    ],
+    "answer": "C) G",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      Which of the following pairs has the person facing the same direction?",
+    "choice": [
+      "A) B, D",
+      "B) G, H",
+      "C) A, G",
+      "D) H, D"
+    ],
+    "answer": "A) B, D",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      How many persons are facing in North direction?",
+    "choice": [
+      "A) 6",
+      "B) 3",
+      "C) 4",
+      "D) 5"
+    ],
+    "answer": "A) 6",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      Who is sitting third from the eastern end of the arrangement?",
+    "choice": [
+      "A) E",
+      "B) G",
+      "C) B",
+      "D) C"
+    ],
+    "answer": "C) B",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      How many persons are sitting between E and B?",
+    "choice": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5"
+    ],
+    "answer": "B) 3",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      Which one of the following statement is correct?",
+    "choice": [
+      "A) A sits between G and B",
+      "B) D sits to thesecond left of H",
+      "C) H and B are facing same direction",
+      "D) Person sitting to the left of A faces direction"
+    ],
+    "answer": "B) D sits to thesecond left of H",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the questions that   follows.   Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to   West. Some are facing North direction and some are facing South direction.   H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is   facing North. B and G are facing in same direction and person sitting between them is facing in   opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to   E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same   www.BankExasmToday.com            \f            direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in   same direction which is opposite to the direction of H is facing. E sits to the right of A.      Who sits 3rd to the left of A?",
+    "choice": [
+      "A) B",
+      "B) D",
+      "C) H",
+      "D) G"
+    ],
+    "answer": "A) B",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people E, F, G, H, J , K, L and M are sitting around a circular table facing the centre.   Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer,   Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F I s sitting   second to the left of K. The Scientist is an immediate neighbour of K. There are only three people   between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to t   he immediate r ight of the Engineer. M is second to the right of K. H is the Scientist. G and J are   immediate neighboursof each other. Neither G nor J is an Engineer. The Financjial Analyst is to the   immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an   immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.      Who is sitting second to the right of E?",
+    "choice": [
+      "A) The Lawyer",
+      "B) G",
+      "C) The Engineer",
+      "D) F"
+    ],
+    "answer": "B) G",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people E, F, G, H, J , K, L and M are sitting around a circular table facing the centre.   Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer,   Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F I s sitting   second to the left of K. The Scientist is an immediate neighbour of K. There are only three people   between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to t   he immediate r ight of the Engineer. M is second to the right of K. H is the Scientist. G and J are   immediate neighboursof each other. Neither G nor J is an Engineer. The Financjial Analyst is to the   immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an   immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.      Who amongst the following is the Professor?  www.BankExasmToday.com   Page 4  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) F",
+      "B) L",
+      "C) M",
+      "D) K"
+    ],
+    "answer": "D) K",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people E, F, G, H, J , K, L and M are sitting around a circular table facing the centre.   Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer,   Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F I s sitting   second to the left of K. The Scientist is an immediate neighbour of K. There are only three people   between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to t   he immediate r ight of the Engineer. M is second to the right of K. H is the Scientist. G and J are   immediate neighboursof each other. Neither G nor J is an Engineer. The Financjial Analyst is to the   immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an   immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.      Four of the following five are alike in a certain way based on the given arrangement and hence from a group. Which of the following does not belong to that group?  www.BankExamsToday.com",
+    "choice": [
+      "A) Chartered Accountant",
+      "B) M   Doctor",
+      "C) J   Engineer",
+      "D) Financial Analyst   L"
+    ],
+    "answer": "C) J   Engineer",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people E, F, G, H, J , K, L and M are sitting around a circular table facing the centre.   Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer,   Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F I s sitting   second to the left of K. The Scientist is an immediate neighbour of K. There are only three people   between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to t   he immediate r ight of the Engineer. M is second to the right of K. H is the Scientist. G and J are   immediate neighboursof each other. Neither G nor J is an Engineer. The Financjial Analyst is to the   immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an   immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.      What is the position of L with respect to the Scientist?",
+    "choice": [
+      "A) Third to the left",
+      "B) Second to the right",
+      "C) Second to the left",
+      "D) Third to the right"
+    ],
+    "answer": "B) Second to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people E, F, G, H, J , K, L and M are sitting around a circular table facing the centre.   Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer,   Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F I s sitting   second to the left of K. The Scientist is an immediate neighbour of K. There are only three people   between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to t   he immediate r ight of the Engineer. M is second to the right of K. H is the Scientist. G and J are   immediate neighboursof each other. Neither G nor J is an Engineer. The Financjial Analyst is to the   immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an   immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant.      Which of the following statements is true according to the given arrangement?",
+    "choice": [
+      "A) The Lawyer is second to the left of the Doctor",
+      "B) E is an immediate neighbour of the Financial Analyst",
+      "C) H sits exactly between F and the Financial Analyst",
+      "D) Only four people sit between the Coloumnist and F"
+    ],
+    "answer": "A) The Lawyer is second to the left of the Doctor",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same   circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A.   B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to   the right of B.      Which of the following pairs is not facing the centre?",
+    "choice": [
+      "A) BC",
+      "B) AC",
+      "C) CA",
+      "D) BD"
+    ],
+    "answer": "A) BC",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same   circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A.   B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to   the right of B.      What is the position of D with respect to F?",
+    "choice": [
+      "A) None of these",
+      "B) Third to the left",
+      "C) Fifth to the right",
+      "D) Cannot be determined"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same   circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A.   B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to   the right of B.      Who among the following is second to the left of B?",
+    "choice": [
+      "A) A",
+      "B) H",
+      "C) I",
+      "D) Either H or I "
+    ],
+    "answer": "D) Either H or I ",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same   circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A.   B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to   the right of B.      If H is on the immediate right of E then what is H’s position with respect to C?",
+    "choice": [
+      "A) Third to the left",
+      "B) Third to the right",
+      "C) Fifth to the left",
+      "D) Cannot be determined"
+    ],
+    "answer": "B) Third to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same   circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A.   B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to   the right of B.      Which of the following is/are the possible position(s) of I with respect to A? www.BankExasmToday.com  Page 5  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) All of the above",
+      "B) Second to the left",
+      "C) Fourth to the left",
+      "D) Only a and c"
+    ],
+    "answer": "A) All of the above",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game   in which they were sitting around a circular ring. The seats of the ring are not directed towards the   centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but   not necessarily in the same order. These s tudents are from different sport houses, viz. Maharishi   Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand.                                       No two students of the same group are sitting adjacent to each other except those of group III.   Students from group IV are sitting opposite each other.   D is neither in Dayanand nor in Aryabhatt house.   The student from Dhruv house is sitting on the immediate right of the students from   Dayanand house.   C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is   in group III.   F is not in Aryabhatt house and she has also participated in other sports.   B from Vyas house is neither in group IV nor in group I or II.   B is sitting opposite E. Only Balmiki participant A is sitting b etweenDhruvparticipaint E and   t heShankaracharya participant.   Both the students of group II are sitting adjacent to students of group IV.      Who is in Maharishi house?",
+    "choice": [
+      "A) G",
+      "B) F",
+      "C) H",
+      "D) Can’t say"
+    ],
+    "answer": "B) F",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game   in which they were sitting around a circular ring. The seats of the ring are not directed towards the   centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but   not necessarily in the same order. These s tudents are from different sport houses, viz. Maharishi   Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand.                                       No two students of the same group are sitting adjacent to each other except those of group III.   Students from group IV are sitting opposite each other.   D is neither in Dayanand nor in Aryabhatt house.   The student from Dhruv house is sitting on the immediate right of the students from   Dayanand house.   C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is   in group III.   F is not in Aryabhatt house and she has also participated in other sports.   B from Vyas house is neither in group IV nor in group I or II.   B is sitting opposite E. Only Balmiki participant A is sitting b etweenDhruvparticipaint E and   t heShankaracharya participant.   Both the students of group II are sitting adjacent to students of group IV.      ‘H’ is in which house?",
+    "choice": [
+      "A) Dayanand",
+      "B) Shankaracharya",
+      "C) Maharishi",
+      "D) Can’t say"
+    ],
+    "answer": "D) Can’t say",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game   in which they were sitting around a circular ring. The seats of the ring are not directed towards the   centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but   not necessarily in the same order. These s tudents are from different sport houses, viz. Maharishi   Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand.                                       No two students of the same group are sitting adjacent to each other except those of group III.   Students from group IV are sitting opposite each other.   D is neither in Dayanand nor in Aryabhatt house.   The student from Dhruv house is sitting on the immediate right of the students from   Dayanand house.   C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is   in group III.   F is not in Aryabhatt house and she has also participated in other sports.   B from Vyas house is neither in group IV nor in group I or II.   B is sitting opposite E. Only Balmiki participant A is sitting b etweenDhruvparticipaint E and   t heShankaracharya participant.   Both the students of group II are sitting adjacent to students of group IV.      Who among the following students are in group IV?",
+    "choice": [
+      "A) A and B",
+      "B) A and C",
+      "C) G and H",
+      "D) Data inadequate"
+    ],
+    "answer": "C) G and H",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game   in which they were sitting around a circular ring. The seats of the ring are not directed towards the   centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but   not necessarily in the same order. These s tudents are from different sport houses, viz. Maharishi   Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand.                                       No two students of the same group are sitting adjacent to each other except those of group III.   Students from group IV are sitting opposite each other.   D is neither in Dayanand nor in Aryabhatt house.   The student from Dhruv house is sitting on the immediate right of the students from   Dayanand house.   C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is   in group III.   F is not in Aryabhatt house and she has also participated in other sports.   B from Vyas house is neither in group IV nor in group I or II.   B is sitting opposite E. Only Balmiki participant A is sitting b etweenDhruvparticipaint E and   t heShankaracharya participant.   Both the students of group II are sitting adjacent to students of group IV.      The student from which house is sitting opposite the Vashistha house participant?",
+    "choice": [
+      "A) Dayanand",
+      "B) Shankracharya",
+      "C) Maharishi",
+      "D) Can’t say"
+    ],
+    "answer": "B) Shankracharya",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game   in which they were sitting around a circular ring. The seats of the ring are not directed towards the   centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but   not necessarily in the same order. These s tudents are from different sport houses, viz. Maharishi   Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand.                                       No two students of the same group are sitting adjacent to each other except those of group III.   Students from group IV are sitting opposite each other.   D is neither in Dayanand nor in Aryabhatt house.   The student from Dhruv house is sitting on the immediate right of the students from   Dayanand house.   C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is   in group III.   F is not in Aryabhatt house and she has also participated in other sports.   B from Vyas house is neither in group IV nor in group I or II.   B is sitting opposite E. Only Balmiki participant A is sitting b etweenDhruvparticipaint E and   t heShankaracharya participant.   Both the students of group II are sitting adjacent to students of group IV.      Which of the following statements is false?  www.BankExasmToday.com  Page 6  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) The Balmiki representative is sitting opposite the Maharishi house representative",
+      "B) The Vyas house representative is sitting opposite the Dhruv house representative",
+      "C) H and G are sitting opposite each other",
+      "D) The two girl participants are sitting opposite each other"
+    ],
+    "answer": "D) The two girl participants are sitting opposite each other",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questioins that   follow.   Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V   are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing   outward. They all are s itting in such a way that in each square four persons are sitting in the middle   of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square   is facing another friend of the outer square. There are exactly two persons sitting between P and T. E   sits second to the left of A. R is on the immediate left of the one who is f acing A. Neither E nor A   faces either T or P. S is facing F an d Q is not opposite R in the outer square. T is not sitting adjacent   to S. B is not facing P. Between B and D there are as many persons as between R and V.      Who is sitting opposite B?",
+    "choice": [
+      "A) V",
+      "B) Q",
+      "C) T",
+      "D) Data inadequate"
+    ],
+    "answer": "C) T",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questioins that   follow.   Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V   are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing   outward. They all are s itting in such a way that in each square four persons are sitting in the middle   of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square   is facing another friend of the outer square. There are exactly two persons sitting between P and T. E   sits second to the left of A. R is on the immediate left of the one who is f acing A. Neither E nor A   faces either T or P. S is facing F an d Q is not opposite R in the outer square. T is not sitting adjacent   to S. B is not facing P. Between B and D there are as many persons as between R and V.      V is facing which of the following persons?",
+    "choice": [
+      "A) E",
+      "B) D",
+      "C) A",
+      "D) Data inadequate"
+    ],
+    "answer": "A) E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questioins that   follow.   Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V   are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing   outward. They all are s itting in such a way that in each square four persons are sitting in the middle   of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square   is facing another friend of the outer square. There are exactly two persons sitting between P and T. E   sits second to the left of A. R is on the immediate left of the one who is f acing A. Neither E nor A   faces either T or P. S is facing F an d Q is not opposite R in the outer square. T is not sitting adjacent   to S. B is not facing P. Between B and D there are as many persons as between R and V.      Who is sitting on the immediate left of R?",
+    "choice": [
+      "A) A",
+      "B) S",
+      "C) P",
+      "D) Data inadequate"
+    ],
+    "answer": "C) P",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questioins that   follow.   Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V   are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing   outward. They all are s itting in such a way that in each square four persons are sitting in the middle   of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square   is facing another friend of the outer square. There are exactly two persons sitting between P and T. E   sits second to the left of A. R is on the immediate left of the one who is f acing A. Neither E nor A   faces either T or P. S is facing F an d Q is not opposite R in the outer square. T is not sitting adjacent   to S. B is not facing P. Between B and D there are as many persons as between R and V.      Four of the five are alike in a certain manner. Select the one which is not similar to the other four.",
+    "choice": [
+      "A) C, E",
+      "B) A, S",
+      "C) D, T",
+      "D) F, Q"
+    ],
+    "answer": "A) C, E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questioins that   follow.   Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V   are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing   outward. They all are s itting in such a way that in each square four persons are sitting in the middle   of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square   is facing another friend of the outer square. There are exactly two persons sitting between P and T. E   sits second to the left of A. R is on the immediate left of the one who is f acing A. Neither E nor A   faces either T or P. S is facing F an d Q is not opposite R in the outer square. T is not sitting adjacent   to S. B is not facing P. Between B and D there are as many persons as between R and V.      Who is sitting second to the left of D?",
+    "choice": [
+      "A) A",
+      "B) E",
+      "C) F",
+      "D) Data inadequate"
+    ],
+    "answer": "A) A",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:   E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not   necessarily in the same order.   I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and   is on the immediate left of H.      Which of the following pairs represents the neighbours of G?",
+    "choice": [
+      "A) H, F",
+      "B) E, H",
+      "C) J, K",
+      "D) I, E"
+    ],
+    "answer": "B) E, H",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:   E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not   necessarily in the same order.   I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and   is on the immediate left of H.      Who among the following is on the immediate left of J?",
+    "choice": [
+      "A) K",
+      "B) H",
+      "C) I",
+      "D) L"
+    ],
+    "answer": "A) K",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:   E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not   necessarily in the same order.   I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and   is on the immediate left of H.      Who among the following is on the immediate right of E?",
+    "choice": [
+      "A) F",
+      "B) L",
+      "C) G",
+      "D) H"
+    ],
+    "answer": "C) G",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:   E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not   necessarily in the same order.   I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and   is on the immediate left of H.      Which of the following statements is true with respect to H? www.BankExasmToday.com  Page 7  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) Immediate left of J",
+      "B) Opposite L",
+      "C) Second to the right of F",
+      "D) All are true"
+    ],
+    "answer": "B) Opposite L",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the given questions:   E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not   necessarily in the same order.   I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and   is on the immediate left of H.      How many persons sit between G and I?  www.BankExamsToday.com",
+    "choice": [
+      "A) None",
+      "B) One",
+      "C) Two",
+      "D) Three"
+    ],
+    "answer": "D) Three",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the given information carefully and answer the given questiions.   Eight people   A, B, C, D, E, F, G and H are sitting around a circular table facing the centre,   not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the   right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not   an immediate neighbour of B.      What is E’s position with respect to G?",
+    "choice": [
+      "A) Third to the left",
+      "B) Second to the right",
+      "C) Third to the right",
+      "D) Second to the left"
+    ],
+    "answer": "D) Second to the left",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the given information carefully and answer the given questiions.   Eight people   A, B, C, D, E, F, G and H are sitting around a circular table facing the centre,   not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the   right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not   an immediate neighbour of B.      Four of the following are based on above arrangement and so form a group. Which one does not belong to the group?",
+    "choice": [
+      "A) GE",
+      "B) DC",
+      "C) AF",
+      "D) AB"
+    ],
+    "answer": "B) DC",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the given information carefully and answer the given questiions.   Eight people   A, B, C, D, E, F, G and H are sitting around a circular table facing the centre,   not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the   right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not   an immediate neighbour of B.      Who is sitting third to the right of the one who is sitting to the immediate right of H?",
+    "choice": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) C"
+    ],
+    "answer": "C) E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the given information carefully and answer the given questiions.   Eight people   A, B, C, D, E, F, G and H are sitting around a circular table facing the centre,   not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the   right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not   an immediate neighbour of B.      Which of the following is true regarding the given arrangement?",
+    "choice": [
+      "A) E is second to the left of C",
+      "B) B is an immediate neighbour of G",
+      "C) H is an immediate neighbour of A",
+      "D) D is not an immediate neighbour of H"
+    ],
+    "answer": "B) B is an immediate neighbour of G",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the given information carefully and answer the given questiions.   Eight people   A, B, C, D, E, F, G and H are sitting around a circular table facing the centre,   not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the   right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not   an immediate neighbour of B.      How many people are sitting between H and A when counted from the right side of H?",
+    "choice": [
+      "A) Three",
+      "B) None",
+      "C) More than three",
+      "D) One"
+    ],
+    "answer": "C) More than three",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following Information to answert these questions.   (i)   (ii)   (iii)   (iv)      P, Q, R, S, T, U and V are sitting along the circle facing the centre.   T is 2nd to t he left of P.   R is 3rd to the right of U who is the immediate left of V.   Q is between P and S.      Which of the following is true statement? www.BankExasmToday.com  Page 8  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) P is between Q and T",
+      "B) R is between P and V",
+      "C) P is 4th to the right of U",
+      "D) U is between V and Q"
+    ],
+    "answer": "C) P is 4th to the right of U",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following Information to answert these questions.   (i)   (ii)   (iii)   (iv)      P, Q, R, S, T, U and V are sitting along the circle facing the centre.   T is 2nd to t he left of P.   R is 3rd to the right of U who is the immediate left of V.   Q is between P and S.      Which of the following pairs has its second member sitting to the immediate left of first member?  www.BankExamsToday.com",
+    "choice": [
+      "A) None of these",
+      "B) PQ",
+      "C) SU",
+      "D) UV"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following Information to answert these questions.   (i)   (ii)   (iii)   (iv)      P, Q, R, S, T, U and V are sitting along the circle facing the centre.   T is 2nd to t he left of P.   R is 3rd to the right of U who is the immediate left of V.   Q is between P and S.      Which of the following is the false statement?",
+    "choice": [
+      "A) R is to the immediate left of P",
+      "B) V is to the immediate right of T",
+      "C) R is 4th to the right of S",
+      "D) T is between V and R"
+    ],
+    "answer": "B) V is to the immediate right of T",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following Information to answert these questions.   (i)   (ii)   (iii)   (iv)      P, Q, R, S, T, U and V are sitting along the circle facing the centre.   T is 2nd to t he left of P.   R is 3rd to the right of U who is the immediate left of V.   Q is between P and S.      What is the position of S?",
+    "choice": [
+      "A) To the immediate left of U",
+      "B) Between V and Q",
+      "C) 3rd to the right of T",
+      "D) To the immediate right of P"
+    ],
+    "answer": "A) To the immediate left of U",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following Information to answert these questions.   (i)   (ii)   (iii)   (iv)      P, Q, R, S, T, U and V are sitting along the circle facing the centre.   T is 2nd to t he left of P.   R is 3rd to the right of U who is the immediate left of V.   Q is between P and S.      Which of the following pairs has members sitting adjacent to each other?",
+    "choice": [
+      "A) PS",
+      "B) QU",
+      "C) UT",
+      "D) TR"
+    ],
+    "answer": "D) TR",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "(i)   (ii)   (iii)   (iv)      K, L, M, N, O, P and Q are sitting around a circular table facing the centre.   L sits between N and O.   K is third to the left of O.   Q is second to the left of M, who is to the immediate left of P.      Which is the correct position of L with respect to Q?",
+    "choice": [
+      "A) None of these",
+      "B) First to the left",
+      "C) First to the right",
+      "D) Third to the right"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "(i)   (ii)   (iii)   (iv)      K, L, M, N, O, P and Q are sitting around a circular table facing the centre.   L sits between N and O.   K is third to the left of O.   Q is second to the left of M, who is to the immediate left of P.      Which of the following pairs has the first person sitting to the immediate left of the second person?",
+    "choice": [
+      "A) LO",
+      "B) MK",
+      "C) QN",
+      "D) LN"
+    ],
+    "answer": "D) LN",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "(i)   (ii)   (iii)   (iv)      K, L, M, N, O, P and Q are sitting around a circular table facing the centre.   L sits between N and O.   K is third to the left of O.   Q is second to the left of M, who is to the immediate left of P.      Who sits second to the left of L?",
+    "choice": [
+      "A) P",
+      "B) M",
+      "C) K",
+      "D) Q"
+    ],
+    "answer": "A) P",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "(i)   (ii)   (iii)   (iv)      K, L, M, N, O, P and Q are sitting around a circular table facing the centre.   L sits between N and O.   K is third to the left of O.   Q is second to the left of M, who is to the immediate left of P.      Who sits between M and Q?",
+    "choice": [
+      "A) O",
+      "B) N",
+      "C) K",
+      "D) L"
+    ],
+    "answer": "C) K",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "(i)   (ii)   (iii)   (iv)      K, L, M, N, O, P and Q are sitting around a circular table facing the centre.   L sits between N and O.   K is third to the left of O.   Q is second to the left of M, who is to the immediate left of P.      Which of the following has the middle person sitting between the other two? www.BankExasmToday.com  Page 9  www.BankExamsToday.com   Seating Arrangement Workbook",
+    "choice": [
+      "A) NQL",
+      "B) PMK",
+      "C) MOP",
+      "D) POK"
+    ],
+    "answer": "B) PMK",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      If E and F interchange their places, who will be second to the right of B?",
+    "choice": [
+      "A) None of these",
+      "B) C",
+      "C) D",
+      "D) Data inadequate"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      In which of the following pairs is the second person sitting to the immediate left of the first person?",
+    "choice": [
+      "A) BC",
+      "B) HE",
+      "C) FA",
+      "D) GD"
+    ],
+    "answer": "D) GD",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      Who is 4th to the right of H?",
+    "choice": [
+      "A) B",
+      "B) A",
+      "C) F",
+      "D) Data inadequate"
+    ],
+    "answer": "C) F",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      Who is to the immediate right of B?",
+    "choice": [
+      "A) C",
+      "B) E",
+      "C) H",
+      "D) Data inadequate"
+    ],
+    "answer": "A) C",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      Who is third to the right of E?",
+    "choice": [
+      "A) C",
+      "B) F",
+      "C) D",
+      "D) Data inadequate"
+    ],
+    "answer": "B) F",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the follow ing information carefully and answer the questions given   below.   A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the   right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second   to the right of F. C is fourth to the right of G.      In a row of 45 boys facing South, T is 8th to the right of H, who is 10th from the right end. H is 14th to the left of R. What is R’s position from the left end?",
+    "choice": [
+      "A) None of these",
+      "B) 23rd",
+      "C) 24th",
+      "D) Data inadequate"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      Who is 3rd to the left of H?",
+    "choice": [
+      "A) M",
+      "B) A",
+      "C) B",
+      "D) F"
+    ],
+    "answer": "B) A",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      Which of the following pairs represents the immediate neighbours of B?",
+    "choice": [
+      "A) FM",
+      "B) AP",
+      "C) MP",
+      "D) AF"
+    ],
+    "answer": "D) AF",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      If R and B interchange their positions, who will be 2nd to the left of M?",
+    "choice": [
+      "A) None of these",
+      "B) H",
+      "C) P",
+      "D) Data inadequate"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      Who is the immediate right of P? www.BankExasmToday.com  Page 10  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) F",
+      "B) R",
+      "D) Data inadequate"
+    ],
+    "answer": "A) F",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      Who is the immediate right of M?    www.BankExamsToday.com",
+    "choice": [
+      "A) H",
+      "B) A",
+      "C) D",
+      "D) Data inadequate"
+    ],
+    "answer": "C) D",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right   of A, who is 3rd to the right of P. M is second t o the l eft of H, who is 2nd to the left of P. D is 3rd to   the right of B.      In a row of 40 children, Q is 14th from the left end and there are 16 children between Q and M. What is M’s position from the right end of the row?",
+    "choice": [
+      "A) 11th",
+      "B) 10th",
+      "C) 30th",
+      "D) Data inadequate"
+    ],
+    "answer": "A) 11th",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the   immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W.   Q is 2nd to the right of D who is 2nd to the right of H.      Who is 3rd to the right of B?",
+    "choice": [
+      "A) W",
+      "B) M",
+      "C) K",
+      "D) H"
+    ],
+    "answer": "D) H",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the   immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W.   Q is 2nd to the right of D who is 2nd to the right of H.      Which of the following represents the immediate neighbours of D?",
+    "choice": [
+      "A) PK",
+      "B) KH",
+      "C) PH",
+      "D) KQ"
+    ],
+    "answer": "A) PK",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the   immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W.   Q is 2nd to the right of D who is 2nd to the right of H.      Who is 3rd to the right of W?",
+    "choice": [
+      "A) P",
+      "B) D",
+      "C) K",
+      "D) R"
+    ],
+    "answer": "B) D",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the   immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W.   Q is 2nd to the right of D who is 2nd to the right of H.      Who is 2nd to the left of P?",
+    "choice": [
+      "A) D",
+      "B) H",
+      "C) K",
+      "D) Data inadequate"
+    ],
+    "answer": "C) K",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the   immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W.   Q is 2nd to the right of D who is 2nd to the right of H.      Who is to the immediate left of B?",
+    "choice": [
+      "A) Q",
+      "B) P",
+      "C) W",
+      "D) Data inadequate"
+    ],
+    "answer": "A) Q",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of   Awho is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right   of B who is not an immediate neighbour of T.      Which of the following combinations represents the first and the second to the left of B respectively?",
+    "choice": [
+      "A) DM",
+      "B) DH",
+      "C) AM",
+      "D) AR"
+    ],
+    "answer": "A) DM",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of   Awho is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right   of B who is not an immediate neighbour of T.      Who is 3rd to the right of T? www.BankExasmToday.com   Page 11  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) D",
+      "B) B",
+      "C) H",
+      "D) M"
+    ],
+    "answer": "D) M",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of   Awho is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right   of B who is not an immediate neighbour of T.      Who is to the immediate left of H?",
+    "choice": [
+      "A) P",
+      "B) M",
+      "C) T",
+      "D) R"
+    ],
+    "answer": "A) P",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of   Awho is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right   of B who is not an immediate neighbour of T.      Who is 2nd to the left of B?   www.BankExamsToday.com",
+    "choice": [
+      "A) D",
+      "B) H",
+      "C) M",
+      "D) Data inadequate"
+    ],
+    "answer": "C) M",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of   Awho is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right   of B who is not an immediate neighbour of T.      In which of the following combinations 3rd person is 2nd to the left of 2nd person?",
+    "choice": [
+      "A) BAR",
+      "B) DBM",
+      "C) TPH",
+      "D) PMH"
+    ],
+    "answer": "B) DBM",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them   are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in   the given sitting arrangement each member seated in a row faces another member of the other row.   S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two   persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the   extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate   neighbour of both P and N.      Who among the following is sitting 2nd to the right of O?",
+    "choice": [
+      "A) P",
+      "B) M",
+      "C) L",
+      "D) Cannot be determined"
+    ],
+    "answer": "C) L",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them   are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in   the given sitting arrangement each member seated in a row faces another member of the other row.   S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two   persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the   extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate   neighbour of both P and N.      Who among the following sits exactly between Q and S?",
+    "choice": [
+      "A) T",
+      "B) U",
+      "C) R",
+      "D) There is no person between Q and S"
+    ],
+    "answer": "A) T",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them   are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in   the given sitting arrangement each member seated in a row faces another member of the other row.   S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two   persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the   extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate   neighbour of both P and N.      Who among the following is sitting at the extreme right end of the Row-1?",
+    "choice": [
+      "A) Q",
+      "B) U",
+      "C) S",
+      "D) R"
+    ],
+    "answer": "D) R",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them   are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in   the given sitting arrangement each member seated in a row faces another member of the other row.   S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two   persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the   extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate   neighbour of both P and N.      Which of the following statements is true regarding R?",
+    "choice": [
+      "A) R is at the extreme left end of the row",
+      "B) R is an immediate neighbor of U",
+      "C) R is sitting second to the right of T",
+      "D) R is sitting exactly between T and U"
+    ],
+    "answer": "B) R is an immediate neighbor of U",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them   are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in   the given sitting arrangement each member seated in a row faces another member of the other row.   S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two   persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the   extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate   neighbour of both P and N.      Who among the following is not seated at any extreme end of Row-1 and Row-2?  www.BankExasmToday.com  Page 12  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) O",
+      "B) S",
+      "C) M",
+      "D) R"
+    ],
+    "answer": "A) O",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "8 persons   E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not   necessarily in the same order. Some of them are facing towards the centre while some others are   facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside.   H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if   H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both   the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K.   Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and   he is an immediate n eighbour of both K and I. I faces towards the centre.      Who amongst the following are not facing towards the centre?",
+    "choice": [
+      "A) E, F and I",
+      "B) F, G and J",
+      "C) H, K and L",
+      "D) G, I and J"
+    ],
+    "answer": "C) H, K and L",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "8 persons   E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not   necessarily in the same order. Some of them are facing towards the centre while some others are   facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside.   H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if   H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both   the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K.   Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and   he is an immediate n eighbour of both K and I. I faces towards the centre.      What is the position of G with respect to E?",
+    "choice": [
+      "A) 2nd to the left",
+      "B) 3rd to the right",
+      "C) 4th to the left",
+      "D) 2nd to the right"
+    ],
+    "answer": "D) 2nd to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "8 persons   E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not   necessarily in the same order. Some of them are facing towards the centre while some others are   facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside.   H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if   H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both   the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K.   Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and   he is an immediate n eighbour of both K and I. I faces towards the centre.      Who among the following is sitting exactly between F and K?",
+    "choice": [
+      "A) J",
+      "B) I",
+      "C) E",
+      "D) G"
+    ],
+    "answer": "A) J",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "8 persons   E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not   necessarily in the same order. Some of them are facing towards the centre while some others are   facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside.   H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if   H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both   the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K.   Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and   he is an immediate n eighbour of both K and I. I faces towards the centre.      How many persons are sitting between H and K if we move clockwise starting from H?",
+    "choice": [
+      "A) Three",
+      "B) Four",
+      "C) Five",
+      "D) Two"
+    ],
+    "answer": "B) Four",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "8 persons   E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not   necessarily in the same order. Some of them are facing towards the centre while some others are   facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside.   H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if   H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both   the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K.   Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and   he is an immediate n eighbour of both K and I. I faces towards the centre.      Which of the following statements is not true regarding the given sitting arrangement?",
+    "choice": [
+      "A) All are true",
+      "B) H is sitting 3rd to the right of K",
+      "C) F and I are sitting just opposite to each other",
+      "D) E is sitting 3rd to the left of G"
+    ],
+    "answer": "A) All are true",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the   right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of   C. H never sits next to G.      Who amongst the following sits between B and D?",
+    "choice": [
+      "A) C",
+      "B) F",
+      "C) H",
+      "D) A"
+    ],
+    "answer": "A) C",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the   right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of   C. H never sits next to G.      Which of the following pairs sit between H and G?",
+    "choice": [
+      "A) None of these",
+      "B) EF",
+      "C) CE",
+      "D) DB"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the   right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of   C. H never sits next to G.      Four of the following are alike I n a certain way based on their positions in the sitting www.BankExasmToday.com  Page 13  www.BankExamsToday.com   Seating Arrangement Workbook",
+    "choice": [
+      "A) CH",
+      "B) HF",
+      "C) BD",
+      "D) GE"
+    ],
+    "answer": "A) CH",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the   right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of   C. H never sits next to G.      Who is immediate right of A?",
+    "choice": [
+      "A) None of these",
+      "B) D",
+      "D) Data inadequate"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the   right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of   C. H never sits next to G.      www.BankExamsToday.com Who sits second to the right of B?",
+    "choice": [
+      "A) None of these",
+      "B) C",
+      "C) D",
+      "D) E"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following carefully and answer the questions.   A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit   next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D   never sits next to G. H is not the neighbour of D and C.      Who sits to immediate right of F?",
+    "choice": [
+      "A) None of these",
+      "B) C",
+      "C) B",
+      "D) A"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following carefully and answer the questions.   A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit   next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D   never sits next to G. H is not the neighbour of D and C.      Four of the following are alike in a certain way based on their positions in the sitting",
+    "choice": [
+      "A) AC",
+      "B) BA",
+      "C) FE",
+      "D) DG"
+    ],
+    "answer": "A) AC",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following carefully and answer the questions.   A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit   next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D   never sits next to G. H is not the neighbour of D and C.      Which of the following pairs sits between B and F?",
+    "choice": [
+      "A) AH",
+      "B) FD",
+      "C) BG",
+      "D) GC"
+    ],
+    "answer": "A) AH",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following carefully and answer the questions.   A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit   next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D   never sits next to G. H is not the neighbour of D and C.      Who sits second to the left of B?",
+    "choice": [
+      "A) None of these",
+      "B) G",
+      "C) A",
+      "D) E"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following carefully and answer the questions.   A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit   next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D   never sits next to G. H is not the neighbour of D and C.      Who sits between A and D?",
+    "choice": [
+      "A) None of these",
+      "B) F",
+      "C) C",
+      "D) E"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the   centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the   left of Geeta who is not an immediate neighbour of Meeta.      Who is to the immediate right of Priya?",
+    "choice": [
+      "A) None of the above",
+      "B) Sudha",
+      "D) Cannot be determined"
+    ],
+    "answer": "A) None of the above",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the   centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the   left of Geeta who is not an immediate neighbour of Meeta.      Who is second to the left of Rani?",
+    "choice": [
+      "A) None of these",
+      "B) Meeta",
+      "C) Priya",
+      "D) Sudha"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the   centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the   left of Geeta who is not an immediate neighbour of Meeta.      Which of the following pairs of persons has the first person sitting to the immediate left of second person? www.BankExasmToday.com  Page 14  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) Rani-Meeta",
+      "B) Ashwini-Geeta",
+      "C) Sudha-Priya",
+      "D) Geeta-Sudha e) None of these"
+    ],
+    "answer": "E",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the   centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the   left of Geeta who is not an immediate neighbour of Meeta.      Which of the following groups has the first person sitting between the other two?  www.BankExamsToday.com",
+    "choice": [
+      "A) None of these",
+      "B) Sudha-Rani-Geeta",
+      "C) Mukta-Priya-Rani",
+      "D) Mukta-Priya-Sudha"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the   centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the   left of Geeta who is not an immediate neighbour of Meeta.      Which of the following is the correct position of Rani with respect to Mukta? i) Third to the right ii) Third to the left iii) Fourth to the left iv) Fourth to the right",
+    "choice": [
+      "A) Both i) and iii)",
+      "B) ii) only",
+      "C) Both i) and ii)",
+      "D) Both ii) and iv)"
+    ],
+    "answer": "A) Both i) and iii)",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of   C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right   of A, who is second to the right of G.      Who is second to the left of C?",
+    "choice": [
+      "A) None of these",
+      "B) B",
+      "D) D"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of   C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right   of A, who is second to the right of G.      Who is to the immediate right of C?",
+    "choice": [
+      "A) None of these",
+      "B) B",
+      "C) D",
+      "D) B or D"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of   C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right   of A, who is second to the right of G.      Which of the following pairs of persons has first person sitting to the right of the second person?",
+    "choice": [
+      "A) DB",
+      "B) AE",
+      "C) FG",
+      "D) HA"
+    ],
+    "answer": "A) DB",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of   C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right   of A, who is second to the right of G.      Who sits between G and D?",
+    "choice": [
+      "A) None of these",
+      "B) D",
+      "C) F",
+      "D) E"
+    ],
+    "answer": "A) None of these",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer these questions.   A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of   C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right   of A, who is second to the right of G.      Which of the following is the correct position of B with respect to H? I. Second to the right II. Fourth to the right III. Fourth to the left IV. Second to the left",
+    "choice": [
+      "A) Only I",
+      "B) Only II",
+      "C) Only III",
+      "D) Both II and III"
+    ],
+    "answer": "B) Only II",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the question that   follow.   Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha,   Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a   circular table facing each other.   www.BankExasmToday.com            \f            (i) Geetika refuses to sit next to Aamir.   (ii) Lajwanti wants to be between Akshay and Harbhajan.   (iii) Chameli refuses to sit next to Faizal.   (iv) Nitika is seated on Aamir's right hand side.   (v) Faizal and Tirlochan are seated exactly opposite to each other.   (vi) Ranveer and Savitri are seated to the left of Chameli.   (vii) Akshay and Rekha want to enjoy the company of Lajwanti and Tirlochan respectively and are   seated closest to them.   (viii) The seating arrangement is such that minimum one woman is always between two men.      Which of the following statements is correct:",
+    "choice": [
+      "A) Lajwanti is on Tirlochan's right",
+      "B) Aamir is on Chameli's right",
+      "C) Geetika is on Hari's right",
+      "D) Geetika is on Faizal's left"
+    ],
+    "answer": "B) Aamir is on Chameli's right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the question that   follow.   Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha,   Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a   circular table facing each other.   www.BankExasmToday.com            \f            (i) Geetika refuses to sit next to Aamir.   (ii) Lajwanti wants to be between Akshay and Harbhajan.   (iii) Chameli refuses to sit next to Faizal.   (iv) Nitika is seated on Aamir's right hand side.   (v) Faizal and Tirlochan are seated exactly opposite to each other.   (vi) Ranveer and Savitri are seated to the left of Chameli.   (vii) Akshay and Rekha want to enjoy the company of Lajwanti and Tirlochan respectively and are   seated closest to them.   (viii) The seating arrangement is such that minimum one woman is always between two men.      If looked in an anti-clockwise manner, who are seated between Tirlochan and Faizal:",
+    "choice": [
+      "A) Savitri, Ranveer, Chameli, Aamir and Nitika",
+      "B) Savitri, Ranveer, Rekha, Akshay and Lajwanti",
+      "C) Savitri, Ranveer, Geetika, Harbhajan and Lajwanti",
+      "D) Savitir, Ranveer, Lajwanti, Akshay and Harbhajan"
+    ],
+    "answer": "A) Savitri, Ranveer, Chameli, Aamir and Nitika",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the question that   follow.   Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha,   Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a   circular table facing each other.   www.BankExasmToday.com            \f            (i) Geetika refuses to sit next to Aamir.   (ii) Lajwanti wants to be between Akshay and Harbhajan.   (iii) Chameli refuses to sit next to Faizal.   (iv) Nitika is seated on Aamir's right hand side.   (v) Faizal and Tirlochan are seated exactly opposite to each other.   (vi) Ranveer and Savitri are seated to the left of Chameli.   (vii) Akshay and Rekha want to enjoy the company of Lajwanti and Tirlochan respectively and are   seated closest to them.   (viii) The seating arrangement is such that minimum one woman is always between two men.      Which of the following close neighboring arrangements is correct:",
+    "choice": [
+      "A) Aamir, Chameli and Ranveer",
+      "B) Tirlochan, Ranveer and Aamir",
+      "C) Nitika, Faizal and Lajwanti",
+      "D) Harbhajan, Geetika and Akshay"
+    ],
+    "answer": "A) Aamir, Chameli and Ranveer",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the question that   follow.   Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha,   Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a   circular table facing each other.   www.BankExasmToday.com            \f            (i) Geetika refuses to sit next to Aamir.   (ii) Lajwanti wants to be between Akshay and Harbhajan.   (iii) Chameli refuses to sit next to Faizal.   (iv) Nitika is seated on Aamir's right hand side.   (v) Faizal and Tirlochan are seated exactly opposite to each other.   (vi) Ranveer and Savitri are seated to the left of Chameli.   (vii) Akshay and Rekha want to enjoy the company of Lajwanti and Tirlochan respectively and are   seated closest to them.   (viii) The seating arrangement is such that minimum one woman is always between two men.      Who sits between Geetika and Lajwanti:",
+    "choice": [
+      "A) Faizal",
+      "B) Akshay",
+      "C) Tirlochan",
+      "D) Ranveer"
+    ],
+    "answer": "B) Akshay",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully to answer the question that   follow.   Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha,   Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a   circular table facing each other.   www.BankExasmToday.com            \f            (i) Geetika refuses to sit next to Aamir.   (ii) Lajwanti wants to be between Akshay and Harbhajan.   (iii) Chameli refuses to sit next to Faizal.   (iv) Nitika is seated on Aamir's right hand side.   (v) Faizal and Tirlochan are seated exactly opposite to each other.   (vi) Ranveer and Savitri are seated to the left of Chameli.   (vii) Akshay and Rekha want to enjoy the company of Lajwanti and Tirlochan respectively and are   seated closest to them.   (viii) The seating arrangement is such that minimum one woman is always between two men.      Who sits to the second left of Nitika:",
+    "choice": [
+      "A) Savitri",
+      "B) Ranveer",
+      "C) Chameli",
+      "D) Tirlochan"
+    ],
+    "answer": "C) Chameli",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      If all the persons are made to sit in alphabetical order in clockwise direction starting from Prem, then the position of how many persons remains the same (Excluding Prem)?  www.BankExamsToday.com",
+    "choice": [
+      "A) None",
+      "B) One",
+      "C) Two",
+      "D) Three"
+    ],
+    "answer": "A) None",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      Which among the following is true regarding Yousuf?",
+    "choice": [
+      "A) Taksh is not sitting beside Yousuf.",
+      "B) Yousuf is sitting at the mid - point of a side.",
+      "C) Rajan is second to the left of Yousuf.",
+      "D) Prem and Vaani are beside Yousuf"
+    ],
+    "answer": "C) Rajan is second to the left of Yousuf.",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      Who is 4th to the left of Vaani?",
+    "choice": [
+      "A) Yousuf",
+      "B) Rajan",
+      "C) Taksh",
+      "D) Queen"
+    ],
+    "answer": "A) Yousuf",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      What is the position of Queen in respect of Rajan?",
+    "choice": [
+      "A) Immediate Right",
+      "B) Second to the Left",
+      "C) Third to the Left",
+      "D) Third to the Right"
+    ],
+    "answer": "A) Immediate Right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      Four out of following five are some how same and therefore they form a group. Which one of the following does not come into this group?",
+    "choice": [
+      "A) Yousuf",
+      "B) Waqar",
+      "C) Vaani",
+      "D) Rajan"
+    ],
+    "answer": "B) Waqar",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      Who is third to the right of Waqar?",
+    "choice": [
+      "A) Rajan",
+      "B) Sooraj",
+      "C) Queen",
+      "D) Yousuf"
+    ],
+    "answer": "D) Yousuf",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the information carefully and answer the questions given below.   Eight friends Prem, Queen, Rajan, Sooraj, Taksh, Vaani, Waqar and Yousuf are sitting around   a square table. Out of eight, four persons are sitting at the corners of the table and other four are   sitting at the mid - points of each side of the table. Persons at the corners are facing the center while   the persons at the mid - points of side are facing outside. Sooraj is third to the right of Prem.   Prem is facing the center. Yousuf is not sitting beside Prem or Sooraj. Taksh is third to the   right ofRajan. Rajan is not sitting at the mid - point of any side of the table. Rajan is also not beside   Yousuf. There is only one person between Prem and Vaani. Queen is not sitting beside Vaani.   www.BankExasmToday.com      How many people are there between Taksh and Queen?  www.BankExasmToday.com  Page 17  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "A) 1",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given   questions.   Vicky, Urgit and Toni are sitting around a circle. Amar, Balu and Charu are sitting around the   same circle but two of them are not facing center (they are facing the direction opposite to center).   Vicky is second to the left of Charu. Urgit is second to the right of Amar. Balu is third to the left of   Toni. Charu is second to the right of Toni. Amar and Charu are not sitting together.      Who among the following is not facing center:",
+    "choice": [
+      "A) Balu and Amar",
+      "B) Charu and Amar",
+      "C) Balu and Charu",
+      "D) Can Not Be Determined"
+    ],
+    "answer": "C) Balu and Charu",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given   questions.   Vicky, Urgit and Toni are sitting around a circle. Amar, Balu and Charu are sitting around the   same circle but two of them are not facing center (they are facing the direction opposite to center).   Vicky is second to the left of Charu. Urgit is second to the right of Amar. Balu is third to the left of   Toni. Charu is second to the right of Toni. Amar and Charu are not sitting together.      Which of the following is the position of Toni in respect of Balu:",
+    "choice": [
+      "A) Third to the right",
+      "B) Second to the right",
+      "C) Third to the left",
+      "D) Third to the left or right"
+    ],
+    "answer": "D) Third to the left or right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given   questions.   Vicky, Urgit and Toni are sitting around a circle. Amar, Balu and Charu are sitting around the   same circle but two of them are not facing center (they are facing the direction opposite to center).   Vicky is second to the left of Charu. Urgit is second to the right of Amar. Balu is third to the left of   Toni. Charu is second to the right of Toni. Amar and Charu are not sitting together.      What is the position of Vicky in respect of Charu:",
+    "choice": [
+      "A) Second to the right",
+      "B) Third to the left",
+      "C) Fourth to the right",
+      "D) Fourth to the left"
+    ],
+    "answer": "C) Fourth to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given   questions.   Vicky, Urgit and Toni are sitting around a circle. Amar, Balu and Charu are sitting around the   same circle but two of them are not facing center (they are facing the direction opposite to center).   Vicky is second to the left of Charu. Urgit is second to the right of Amar. Balu is third to the left of   Toni. Charu is second to the right of Toni. Amar and Charu are not sitting together.      Which of the following statement is correct:",
+    "choice": [
+      "A) Amar, Balu and Charu are sitting together",
+      "B) Vicky, Urgit and Toni are sitting together",
+      "C) Sitting arrangement of two persons can not be determined",
+      "D) Those who are not facing center are sitting together"
+    ],
+    "answer": "D) Those who are not facing center are sitting together",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully to answer the given   questions.   Vicky, Urgit and Toni are sitting around a circle. Amar, Balu and Charu are sitting around the   same circle but two of them are not facing center (they are facing the direction opposite to center).   Vicky is second to the left of Charu. Urgit is second to the right of Amar. Balu is third to the left of   Toni. Charu is second to the right of Toni. Amar and Charu are not sitting together.      What is the position of Amar in respect of Urgit:",
+    "choice": [
+      "A) Second to the left",
+      "B) Second to the right",
+      "C) Third to the right",
+      "D) Can not be determined"
+    ],
+    "answer": "A) Second to the left",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Twelve friends are sitting in two squares. One square is inside another. Paras, Qurbaan, Rajat,   Singh, Tom and Vinod are in the outer square facing inward. Amar, Birbal, Chinku, Deep, Eshika and   Farukh are sitting in the inner square facing outward. They all are sitting in such a way that in each   square four persons are sitting in the middle of the sides and two persons are sitting on diagonally   opposite corners.   Each friend in the inner square is facing another friend of the outer square. There are exactly   two persons sitting between Paras and Tom. Eshika sits second to the left of Amar. Rajat is on the   immediate left of the one who is facing Amar. Neither Eshika nor Amar faces either Tom or Paras.   www.BankExasmToday.com            \f            Singh is facing Farukh and Qurbaan is not opposite Rajat in the outer square. Tom is not sitting   adjacent to Singh. Birbal is not facing Paras. Between Birbal and Deep there are as many persons as   between Rajat and Vinod.      Who is sitting opposite Birbal?  www.BankExamsToday.com",
+    "choice": [
+      "A) Vinod",
+      "B) Qurbaan",
+      "C) Tom",
+      "D) Data inadequate"
+    ],
+    "answer": "C) Tom",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Twelve friends are sitting in two squares. One square is inside another. Paras, Qurbaan, Rajat,   Singh, Tom and Vinod are in the outer square facing inward. Amar, Birbal, Chinku, Deep, Eshika and   Farukh are sitting in the inner square facing outward. They all are sitting in such a way that in each   square four persons are sitting in the middle of the sides and two persons are sitting on diagonally   opposite corners.   Each friend in the inner square is facing another friend of the outer square. There are exactly   two persons sitting between Paras and Tom. Eshika sits second to the left of Amar. Rajat is on the   immediate left of the one who is facing Amar. Neither Eshika nor Amar faces either Tom or Paras.   www.BankExasmToday.com            \f            Singh is facing Farukh and Qurbaan is not opposite Rajat in the outer square. Tom is not sitting   adjacent to Singh. Birbal is not facing Paras. Between Birbal and Deep there are as many persons as   between Rajat and Vinod.      Vinod is facing which of the following persons?",
+    "choice": [
+      "A) Eshika",
+      "B) Deep",
+      "C) Amar",
+      "D) Data inadequate"
+    ],
+    "answer": "A) Eshika",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Twelve friends are sitting in two squares. One square is inside another. Paras, Qurbaan, Rajat,   Singh, Tom and Vinod are in the outer square facing inward. Amar, Birbal, Chinku, Deep, Eshika and   Farukh are sitting in the inner square facing outward. They all are sitting in such a way that in each   square four persons are sitting in the middle of the sides and two persons are sitting on diagonally   opposite corners.   Each friend in the inner square is facing another friend of the outer square. There are exactly   two persons sitting between Paras and Tom. Eshika sits second to the left of Amar. Rajat is on the   immediate left of the one who is facing Amar. Neither Eshika nor Amar faces either Tom or Paras.   www.BankExasmToday.com            \f            Singh is facing Farukh and Qurbaan is not opposite Rajat in the outer square. Tom is not sitting   adjacent to Singh. Birbal is not facing Paras. Between Birbal and Deep there are as many persons as   between Rajat and Vinod.      Who is sitting on the immediate left of Rajat?",
+    "choice": [
+      "A) Amar",
+      "B) Singh",
+      "C) Paras",
+      "D) Data inadequate"
+    ],
+    "answer": "C) Paras",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Twelve friends are sitting in two squares. One square is inside another. Paras, Qurbaan, Rajat,   Singh, Tom and Vinod are in the outer square facing inward. Amar, Birbal, Chinku, Deep, Eshika and   Farukh are sitting in the inner square facing outward. They all are sitting in such a way that in each   square four persons are sitting in the middle of the sides and two persons are sitting on diagonally   opposite corners.   Each friend in the inner square is facing another friend of the outer square. There are exactly   two persons sitting between Paras and Tom. Eshika sits second to the left of Amar. Rajat is on the   immediate left of the one who is facing Amar. Neither Eshika nor Amar faces either Tom or Paras.   www.BankExasmToday.com            \f            Singh is facing Farukh and Qurbaan is not opposite Rajat in the outer square. Tom is not sitting   adjacent to Singh. Birbal is not facing Paras. Between Birbal and Deep there are as many persons as   between Rajat and Vinod.      Four of the five are alike in a certain manner. Select the one which is not similar to the other four.",
+    "choice": [
+      "A) Chinku and Eshika",
+      "B) Amar and Singh",
+      "C) Deep and Tom",
+      "D) Farukh and Qurbaan"
+    ],
+    "answer": "A) Chinku and Eshika",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Read the following information carefully and answer the questions that   follow.   Twelve friends are sitting in two squares. One square is inside another. Paras, Qurbaan, Rajat,   Singh, Tom and Vinod are in the outer square facing inward. Amar, Birbal, Chinku, Deep, Eshika and   Farukh are sitting in the inner square facing outward. They all are sitting in such a way that in each   square four persons are sitting in the middle of the sides and two persons are sitting on diagonally   opposite corners.   Each friend in the inner square is facing another friend of the outer square. There are exactly   two persons sitting between Paras and Tom. Eshika sits second to the left of Amar. Rajat is on the   immediate left of the one who is facing Amar. Neither Eshika nor Amar faces either Tom or Paras.   www.BankExasmToday.com            \f            Singh is facing Farukh and Qurbaan is not opposite Rajat in the outer square. Tom is not sitting   adjacent to Singh. Birbal is not facing Paras. Between Birbal and Deep there are as many persons as   between Rajat and Vinod.      Who is sitting second to the left of Deep?",
+    "choice": [
+      "A) Amar",
+      "B) Eshika",
+      "C) Farukh",
+      "D) Data inadequate"
+    ],
+    "answer": "A) Amar",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   8 persons   Ekam, Ford, Gabbar, Himmat, Inpreet, Johny, Karma and Loveleen - are sitting   around a circle at equidistance but not necessarily in the same order. Some of them are facing towards   the centre while some others are facing outside the centre. Loveleen is sitting 3rd to the left of Karma.   Both Karma and Loveleen are facing towards the outside. Himmat is not an immediate neighbour of   Karma or Loveleen. Johny faces the just opposite direction of Himmat. (It implies that if Himmat is   facing towards the centre, Johny would face outside the centre). Johny is sitting 2nd to the left of   Himmat. Both the immediate neighbours of Gabbar face just opposite direction of Gabbar. Ekam is   an immediate neighbour of Karma. Both the immediate neighbour of Himmatface just opposite   direction of Himmat.Ekam faces towards the centre and he is an immediate neighbour of both Karma   and Inpreet. Inpreet faces towards the centre.      Who amongst the following are not facing towards the centre?  www.BankExasmToday.com  Page 19  www.BankExamsToday.com  Seating Arrangement Workbook   www.BankExamsToday.com",
+    "choice": [
+      "A) Ekam, Ford and Inpreet",
+      "B) Ford, Gabbar and Johny",
+      "C) Himmat, Karma and Loveleen",
+      "D) Gabbar, Inpreet and Johny"
+    ],
+    "answer": "C) Himmat, Karma and Loveleen",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   8 persons   Ekam, Ford, Gabbar, Himmat, Inpreet, Johny, Karma and Loveleen - are sitting   around a circle at equidistance but not necessarily in the same order. Some of them are facing towards   the centre while some others are facing outside the centre. Loveleen is sitting 3rd to the left of Karma.   Both Karma and Loveleen are facing towards the outside. Himmat is not an immediate neighbour of   Karma or Loveleen. Johny faces the just opposite direction of Himmat. (It implies that if Himmat is   facing towards the centre, Johny would face outside the centre). Johny is sitting 2nd to the left of   Himmat. Both the immediate neighbours of Gabbar face just opposite direction of Gabbar. Ekam is   an immediate neighbour of Karma. Both the immediate neighbour of Himmatface just opposite   direction of Himmat.Ekam faces towards the centre and he is an immediate neighbour of both Karma   and Inpreet. Inpreet faces towards the centre.      What is the position of Gabbar with respect to Ekam? nd",
+    "choice": [
+      "A) 2 to the left",
+      "B) 3rd to the right",
+      "C) 4th to the left",
+      "D) 2nd to the right"
+    ],
+    "answer": "B) 3rd to the right",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   8 persons   Ekam, Ford, Gabbar, Himmat, Inpreet, Johny, Karma and Loveleen - are sitting   around a circle at equidistance but not necessarily in the same order. Some of them are facing towards   the centre while some others are facing outside the centre. Loveleen is sitting 3rd to the left of Karma.   Both Karma and Loveleen are facing towards the outside. Himmat is not an immediate neighbour of   Karma or Loveleen. Johny faces the just opposite direction of Himmat. (It implies that if Himmat is   facing towards the centre, Johny would face outside the centre). Johny is sitting 2nd to the left of   Himmat. Both the immediate neighbours of Gabbar face just opposite direction of Gabbar. Ekam is   an immediate neighbour of Karma. Both the immediate neighbour of Himmatface just opposite   direction of Himmat.Ekam faces towards the centre and he is an immediate neighbour of both Karma   and Inpreet. Inpreet faces towards the centre.      Who among the following is sitting exactly between Ford and Karma?",
+    "choice": [
+      "A) Johny",
+      "B) Inpreet",
+      "C) Ekam",
+      "D) Gabbar"
+    ],
+    "answer": "A) Johny",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   8 persons   Ekam, Ford, Gabbar, Himmat, Inpreet, Johny, Karma and Loveleen - are sitting   around a circle at equidistance but not necessarily in the same order. Some of them are facing towards   the centre while some others are facing outside the centre. Loveleen is sitting 3rd to the left of Karma.   Both Karma and Loveleen are facing towards the outside. Himmat is not an immediate neighbour of   Karma or Loveleen. Johny faces the just opposite direction of Himmat. (It implies that if Himmat is   facing towards the centre, Johny would face outside the centre). Johny is sitting 2nd to the left of   Himmat. Both the immediate neighbours of Gabbar face just opposite direction of Gabbar. Ekam is   an immediate neighbour of Karma. Both the immediate neighbour of Himmatface just opposite   direction of Himmat.Ekam faces towards the centre and he is an immediate neighbour of both Karma   and Inpreet. Inpreet faces towards the centre.      How many persons are sitting between Himmat and Karma if we move clockwise starting from Himmat?",
+    "choice": [
+      "A) Three",
+      "B) Four",
+      "C) Five",
+      "D) Two"
+    ],
+    "answer": "B) Four",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   8 persons   Ekam, Ford, Gabbar, Himmat, Inpreet, Johny, Karma and Loveleen - are sitting   around a circle at equidistance but not necessarily in the same order. Some of them are facing towards   the centre while some others are facing outside the centre. Loveleen is sitting 3rd to the left of Karma.   Both Karma and Loveleen are facing towards the outside. Himmat is not an immediate neighbour of   Karma or Loveleen. Johny faces the just opposite direction of Himmat. (It implies that if Himmat is   facing towards the centre, Johny would face outside the centre). Johny is sitting 2nd to the left of   Himmat. Both the immediate neighbours of Gabbar face just opposite direction of Gabbar. Ekam is   an immediate neighbour of Karma. Both the immediate neighbour of Himmatface just opposite   direction of Himmat.Ekam faces towards the centre and he is an immediate neighbour of both Karma   and Inpreet. Inpreet faces towards the centre.      Which of the following statements is not true regarding the given sitting",
+    "choice": [
+      "A) All are true",
+      "B) Himmat is sitting 3rd to the right of Karma",
+      "C) Ford and Inpreet are sitting just opposite to each other",
+      "D) Ekam is sitting 3rd to the left of Gabbar"
+    ],
+    "answer": "A) All are true",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Qartar, Rohan, Sooraj, Tarun and Uday are   seated and all of them are facing north. In Row-2, Lucky, Manav, Neeraj, Opendra and Parkash are   seated and all of them are facing south. Therefore in the given sitting arrangement each member   seated in a row faces another member of the other row.   Sooraj is sitting 2nd to the left of Qartar. Qartar is not sitting at any of the ends of the line.   There are two persons between Parkhash and Lucky. The person who faces Tarun is to the   immediately left of Manav. Manav is sitting at the extreme right end. Qartar is an immediate   neighbour of Uday. The person who faces Uday is an immediate neighbour of both Parkash and   Neeraj.      Who among the following is sitting 2nd to the right of Opendra?",
+    "choice": [
+      "A) Parkash",
+      "B) Manav",
+      "C) Lucky",
+      "D) Cannot be determined"
+    ],
+    "answer": "C) Lucky",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Qartar, Rohan, Sooraj, Tarun and Uday are   seated and all of them are facing north. In Row-2, Lucky, Manav, Neeraj, Opendra and Parkash are   seated and all of them are facing south. Therefore in the given sitting arrangement each member   seated in a row faces another member of the other row.   Sooraj is sitting 2nd to the left of Qartar. Qartar is not sitting at any of the ends of the line.   There are two persons between Parkhash and Lucky. The person who faces Tarun is to the   immediately left of Manav. Manav is sitting at the extreme right end. Qartar is an immediate   neighbour of Uday. The person who faces Uday is an immediate neighbour of both Parkash and   Neeraj.      Who among the following sits exactly between Q and S?  www.BankExasmToday.com  Page 20  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) Tarun",
+      "B) Uday",
+      "C) Rohan",
+      "D) There is no person between Qartar and Sooraj"
+    ],
+    "answer": "A) Tarun",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Qartar, Rohan, Sooraj, Tarun and Uday are   seated and all of them are facing north. In Row-2, Lucky, Manav, Neeraj, Opendra and Parkash are   seated and all of them are facing south. Therefore in the given sitting arrangement each member   seated in a row faces another member of the other row.   Sooraj is sitting 2nd to the left of Qartar. Qartar is not sitting at any of the ends of the line.   There are two persons between Parkhash and Lucky. The person who faces Tarun is to the   immediately left of Manav. Manav is sitting at the extreme right end. Qartar is an immediate   neighbour of Uday. The person who faces Uday is an immediate neighbour of both Parkash and   Neeraj.      Who among the following is sitting at the extreme right end of the Row-1?  www.BankExamsToday.com",
+    "choice": [
+      "A) Qartar",
+      "B) Uday",
+      "C) Sooraj",
+      "D) Rohan"
+    ],
+    "answer": "C) Sooraj",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Qartar, Rohan, Sooraj, Tarun and Uday are   seated and all of them are facing north. In Row-2, Lucky, Manav, Neeraj, Opendra and Parkash are   seated and all of them are facing south. Therefore in the given sitting arrangement each member   seated in a row faces another member of the other row.   Sooraj is sitting 2nd to the left of Qartar. Qartar is not sitting at any of the ends of the line.   There are two persons between Parkhash and Lucky. The person who faces Tarun is to the   immediately left of Manav. Manav is sitting at the extreme right end. Qartar is an immediate   neighbour of Uday. The person who faces Uday is an immediate neighbour of both Parkash and   Neeraj.      Which of the following statements is true regarding Rohan?",
+    "choice": [
+      "A) Rohan is at the extreme left end of the row",
+      "B) Rohan is an immediate neighbor of Uday",
+      "C) Rohan is sitting second to the right of Tarun",
+      "D) Rohan is sitting exactly between Tarun and Uday"
+    ],
+    "answer": "B) Rohan is an immediate neighbor of Uday",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Study the following information carefully and answer the questions   given below   10 people are sitting in two parallel rows containing five people each, in such a way that there   is an equal distance between adjacent people. In row-1, Qartar, Rohan, Sooraj, Tarun and Uday are   seated and all of them are facing north. In Row-2, Lucky, Manav, Neeraj, Opendra and Parkash are   seated and all of them are facing south. Therefore in the given sitting arrangement each member   seated in a row faces another member of the other row.   Sooraj is sitting 2nd to the left of Qartar. Qartar is not sitting at any of the ends of the line.   There are two persons between Parkhash and Lucky. The person who faces Tarun is to the   immediately left of Manav. Manav is sitting at the extreme right end. Qartar is an immediate   neighbour of Uday. The person who faces Uday is an immediate neighbour of both Parkash and   Neeraj.      Who among the following is not seated at any extreme end of Row-1 and Row-2?",
+    "choice": [
+      "A) Opendra",
+      "B) Sooraj",
+      "C) Manav",
+      "D) Rohan"
+    ],
+    "answer": "A) Opendra",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people Elan, Ford, Gliver, Hamilton, Joseph , Kelvin, Levis and Montek are sitting   around a circular table facing the centre. Each of them is of a different profession Chartered   Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not   necessarily in the same order. Ford is sitting second to the left of Kelvin.   The Scientist is an immediate neighbor of Kelvin. There are only three people between the Scientist   and Elan. Only one person sits between the Engineer and Elan. The Columnist is to the immediate   right of the Engineer. Montek is second to the right of Kelvin. Hamilton is the Scientist. Gliver and   Levis are immediate neighbors of each other. Neither Gliver nor Levis is an Engineer. The Financial   Analyst is to the immediate left of Ford. The Lawyer is second to the right of the Columnist. The   Professor is an immediate neighbour of the Engineer. Gliver is second to the right of the Chartered   Accountant.      Who is sitting second to the right of Elan?",
+    "choice": [
+      "A) The Lawyer",
+      "B) Gliver",
+      "C) The Engineer",
+      "D) Ford"
+    ],
+    "answer": "B) Gliver",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people Elan, Ford, Gliver, Hamilton, Joseph , Kelvin, Levis and Montek are sitting   around a circular table facing the centre. Each of them is of a different profession Chartered   Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not   necessarily in the same order. Ford is sitting second to the left of Kelvin.   The Scientist is an immediate neighbor of Kelvin. There are only three people between the Scientist   and Elan. Only one person sits between the Engineer and Elan. The Columnist is to the immediate   right of the Engineer. Montek is second to the right of Kelvin. Hamilton is the Scientist. Gliver and   Levis are immediate neighbors of each other. Neither Gliver nor Levis is an Engineer. The Financial   Analyst is to the immediate left of Ford. The Lawyer is second to the right of the Columnist. The   Professor is an immediate neighbour of the Engineer. Gliver is second to the right of the Chartered   Accountant.      Who amongst the following is the Professor?",
+    "choice": [
+      "A) Ford",
+      "B) Levis",
+      "C) Montek",
+      "D) Kelvin"
+    ],
+    "answer": "D) Kelvin",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people Elan, Ford, Gliver, Hamilton, Joseph , Kelvin, Levis and Montek are sitting   around a circular table facing the centre. Each of them is of a different profession Chartered   Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not   necessarily in the same order. Ford is sitting second to the left of Kelvin.   The Scientist is an immediate neighbor of Kelvin. There are only three people between the Scientist   and Elan. Only one person sits between the Engineer and Elan. The Columnist is to the immediate   right of the Engineer. Montek is second to the right of Kelvin. Hamilton is the Scientist. Gliver and   Levis are immediate neighbors of each other. Neither Gliver nor Levis is an Engineer. The Financial   Analyst is to the immediate left of Ford. The Lawyer is second to the right of the Columnist. The   Professor is an immediate neighbour of the Engineer. Gliver is second to the right of the Chartered   Accountant.      Four of the following five are alike in a certain way based on the given arrangement",
+    "choice": [
+      "A) Ford - Chartered Accountant",
+      "B) Montek   Doctor",
+      "C) Joseph   Engineer",
+      "D) Financial Analyst   Levis"
+    ],
+    "answer": "C) Joseph   Engineer",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people Elan, Ford, Gliver, Hamilton, Joseph , Kelvin, Levis and Montek are sitting   around a circular table facing the centre. Each of them is of a different profession Chartered   Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not   necessarily in the same order. Ford is sitting second to the left of Kelvin.   The Scientist is an immediate neighbor of Kelvin. There are only three people between the Scientist   and Elan. Only one person sits between the Engineer and Elan. The Columnist is to the immediate   right of the Engineer. Montek is second to the right of Kelvin. Hamilton is the Scientist. Gliver and   Levis are immediate neighbors of each other. Neither Gliver nor Levis is an Engineer. The Financial   Analyst is to the immediate left of Ford. The Lawyer is second to the right of the Columnist. The   Professor is an immediate neighbour of the Engineer. Gliver is second to the right of the Chartered   Accountant.      What is the position of Levis with respect to the Scientist? www.BankExasmToday.com  Page 21  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) Third to the left",
+      "B) Second to the right",
+      "C) Second to the left",
+      "D) Third to the right"
+    ],
+    "answer": "A) Third to the left",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people Elan, Ford, Gliver, Hamilton, Joseph , Kelvin, Levis and Montek are sitting   around a circular table facing the centre. Each of them is of a different profession Chartered   Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not   necessarily in the same order. Ford is sitting second to the left of Kelvin.   The Scientist is an immediate neighbor of Kelvin. There are only three people between the Scientist   and Elan. Only one person sits between the Engineer and Elan. The Columnist is to the immediate   right of the Engineer. Montek is second to the right of Kelvin. Hamilton is the Scientist. Gliver and   Levis are immediate neighbors of each other. Neither Gliver nor Levis is an Engineer. The Financial   Analyst is to the immediate left of Ford. The Lawyer is second to the right of the Columnist. The   Professor is an immediate neighbour of the Engineer. Gliver is second to the right of the Chartered   Accountant.      Which of the following statements is true according to the given arrangement?  www.BankExamsToday.com",
+    "choice": [
+      "A) The Lawyer is second to the left of the Doctor",
+      "B) Elan is an immediate neighbor of the Financial Analyst",
+      "C) Hamilton sits exactly between Ford and the Financial Analyst",
+      "D) Only four people sit between the Coloumnist and Ford"
+    ],
+    "answer": "A) The Lawyer is second to the left of the Doctor",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Balwinder, Deepinder, Manjinder, Kulwinder, Pushwinder, Qartar, Waktawar and Harjit are   sitting around a circle facing at the centre. Manjinder is to the immediate right of Balwinder who is   4th to the right of Kulwinder. Pushwinder is 2nd to the left of Balwinder and is 4th to the right   of Waktawar. Qartar is 2nd to the right of Deepinder who is 2nd to the right of Harjit.      Who is 3rd to the right of Balwinder?",
+    "choice": [
+      "A) Waktawar",
+      "B) Manjinder",
+      "C) Kulwinder",
+      "D) Harjit"
+    ],
+    "answer": "D) Harjit",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Balwinder, Deepinder, Manjinder, Kulwinder, Pushwinder, Qartar, Waktawar and Harjit are   sitting around a circle facing at the centre. Manjinder is to the immediate right of Balwinder who is   4th to the right of Kulwinder. Pushwinder is 2nd to the left of Balwinder and is 4th to the right   of Waktawar. Qartar is 2nd to the right of Deepinder who is 2nd to the right of Harjit.      Which of the following represents the immediate neighbours of Deepinder?",
+    "choice": [
+      "A) Pushwinder, Kulwinder",
+      "B) Kulwinder, Harjit",
+      "C) Pushwinder, Harjit",
+      "D) Kulwinder, Qartar"
+    ],
+    "answer": "A) Pushwinder, Kulwinder",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Balwinder, Deepinder, Manjinder, Kulwinder, Pushwinder, Qartar, Waktawar and Harjit are   sitting around a circle facing at the centre. Manjinder is to the immediate right of Balwinder who is   4th to the right of Kulwinder. Pushwinder is 2nd to the left of Balwinder and is 4th to the right   of Waktawar. Qartar is 2nd to the right of Deepinder who is 2nd to the right of Harjit.      Who is 3rd to the right of Waktawar?",
+    "choice": [
+      "A) Pushwinder",
+      "B) Deepinder",
+      "C) Kulwinder",
+      "D) Rajinder"
+    ],
+    "answer": "B) Deepinder",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Balwinder, Deepinder, Manjinder, Kulwinder, Pushwinder, Qartar, Waktawar and Harjit are   sitting around a circle facing at the centre. Manjinder is to the immediate right of Balwinder who is   4th to the right of Kulwinder. Pushwinder is 2nd to the left of Balwinder and is 4th to the right   of Waktawar. Qartar is 2nd to the right of Deepinder who is 2nd to the right of Harjit.      Who is 2nd to the left of Pushwinder?",
+    "choice": [
+      "A) Deepinder",
+      "B) Harjit",
+      "C) Kulwinder",
+      "D) Data inadequate"
+    ],
+    "answer": "C) Kulwinder",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Balwinder, Deepinder, Manjinder, Kulwinder, Pushwinder, Qartar, Waktawar and Harjit are   sitting around a circle facing at the centre. Manjinder is to the immediate right of Balwinder who is   4th to the right of Kulwinder. Pushwinder is 2nd to the left of Balwinder and is 4th to the right   of Waktawar. Qartar is 2nd to the right of Deepinder who is 2nd to the right of Harjit.      Who is to the immediate left of Balwinder?",
+    "choice": [
+      "A) Qartar",
+      "B) Pushwinder",
+      "C) Waktawar",
+      "D) Data inadequate"
+    ],
+    "answer": "A) Qartar",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "- Read the following information carefully to answer the given questions.   Six People Aksar, Bashir, Chishti, Dullah, Eijaz and Faizal are seating on the ground in a   hexagonal shape. All the sides of the hexagon, so formed are of same length.   www.BankExasmToday.com            \f                           Aksar is not adjacent to Bashir or Chishti.   Dullah is not adjacent to Chishti or Eijaz.   Bashir and Chishti are adjacent to each other.   Faizal is in the middle of Dullah and Chishti.      Which of the following is not a correct neighbor pair?  www.BankExamsToday.com",
+    "choice": [
+      "A) Aksar and Faizal",
+      "B) Dullah and Faizal",
+      "C) Bashir and Eijaz",
+      "D) Chishti and Faizal"
+    ],
+    "answer": "A) Aksar and Faizal",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "- Read the following information carefully to answer the given questions.   Six People Aksar, Bashir, Chishti, Dullah, Eijaz and Faizal are seating on the ground in a   hexagonal shape. All the sides of the hexagon, so formed are of same length.   www.BankExasmToday.com            \f                           Aksar is not adjacent to Bashir or Chishti.   Dullah is not adjacent to Chishti or Eijaz.   Bashir and Chishti are adjacent to each other.   Faizal is in the middle of Dullah and Chishti.      Who is at the same distance from as Dullah as Eijaz is from Dullah?",
+    "choice": [
+      "A) Faizal",
+      "B) Bashir",
+      "C) Chishti",
+      "D) Aksar"
+    ],
+    "answer": "C) Chishti",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "- Read the following information carefully to answer the given questions.   Six People Aksar, Bashir, Chishti, Dullah, Eijaz and Faizal are seating on the ground in a   hexagonal shape. All the sides of the hexagon, so formed are of same length.   www.BankExasmToday.com            \f                           Aksar is not adjacent to Bashir or Chishti.   Dullah is not adjacent to Chishti or Eijaz.   Bashir and Chishti are adjacent to each other.   Faizal is in the middle of Dullah and Chishti.      If one neighbor of Aksar is Dullah, who is the second one?",
+    "choice": [
+      "A) Bashir",
+      "B) Chishti",
+      "C) Eijaz",
+      "D) Faizal"
+    ],
+    "answer": "C) Eijaz",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "- Read the following information carefully to answer the given questions.   Six People Aksar, Bashir, Chishti, Dullah, Eijaz and Faizal are seating on the ground in a   hexagonal shape. All the sides of the hexagon, so formed are of same length.   www.BankExasmToday.com            \f                           Aksar is not adjacent to Bashir or Chishti.   Dullah is not adjacent to Chishti or Eijaz.   Bashir and Chishti are adjacent to each other.   Faizal is in the middle of Dullah and Chishti.      Who is placed opposite to Eijaz?",
+    "choice": [
+      "A) Bashir",
+      "B) Chishti",
+      "C) Dullah",
+      "D) Faizal"
+    ],
+    "answer": "D) Faizal",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "- Read the following information carefully to answer the given questions.   Six People Aksar, Bashir, Chishti, Dullah, Eijaz and Faizal are seating on the ground in a   hexagonal shape. All the sides of the hexagon, so formed are of same length.   www.BankExasmToday.com            \f                           Aksar is not adjacent to Bashir or Chishti.   Dullah is not adjacent to Chishti or Eijaz.   Bashir and Chishti are adjacent to each other.   Faizal is in the middle of Dullah and Chishti.      Who is placed opposite to Aksar?",
+    "choice": [
+      "A) Dullah",
+      "B) Chishti",
+      "C) Faizal",
+      "D) Bashir"
+    ],
+    "answer": "D) Bashir",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Akram, Bakhtawar, Changez, Dayud, Ekam, Farah, Gulrejr and Humayun are seated in   straight line facing north.   Changez sits fourth to the left of Gulrej. Dayud sits second to right of Gulrej.   Only two people sit between Dayud and Akram. Bakhtawar and Farah sits adjacent to each   other.   Humayun is not an immediate neighbor of Dayud.      Who among the following sits exactly in the middle of the persons who sit fifth from the left and the person who sits sixth from the right? www.BankExasmToday.com  Page 23  www.BankExamsToday.com  Seating Arrangement Workbook",
+    "choice": [
+      "A) Changez",
+      "B) Humayun",
+      "C) Ekam",
+      "D) Farah"
+    ],
+    "answer": "D) Farah",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Akram, Bakhtawar, Changez, Dayud, Ekam, Farah, Gulrejr and Humayun are seated in   straight line facing north.   Changez sits fourth to the left of Gulrej. Dayud sits second to right of Gulrej.   Only two people sit between Dayud and Akram. Bakhtawar and Farah sits adjacent to each   other.   Humayun is not an immediate neighbor of Dayud.      Who among the following sits third to the right of Changez?  www.BankExamsToday.com",
+    "choice": [
+      "A) Bakhtawar",
+      "B) Farah",
+      "C) Akram",
+      "D) Ekam"
+    ],
+    "answer": "C) Akram",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Akram, Bakhtawar, Changez, Dayud, Ekam, Farah, Gulrejr and Humayun are seated in   straight line facing north.   Changez sits fourth to the left of Gulrej. Dayud sits second to right of Gulrej.   Only two people sit between Dayud and Akram. Bakhtawar and Farah sits adjacent to each   other.   Humayun is not an immediate neighbor of Dayud.      Which of the following represents persons seated at the two extreme ends of the line?",
+    "choice": [
+      "A) Changez and Dayud",
+      "B) Akram and Bakhtawar",
+      "C) Bakhtawar and Gulrej",
+      "D) Dayud and Humayun"
+    ],
+    "answer": "D) Dayud and Humayun",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Akram, Bakhtawar, Changez, Dayud, Ekam, Farah, Gulrejr and Humayun are seated in   straight line facing north.   Changez sits fourth to the left of Gulrej. Dayud sits second to right of Gulrej.   Only two people sit between Dayud and Akram. Bakhtawar and Farah sits adjacent to each   other.   Humayun is not an immediate neighbor of Dayud.      What is the position of Humayun with respect to Farah?",
+    "choice": [
+      "A) Third to the Left",
+      "B) Immediate Right",
+      "C) Second to Right",
+      "D) Fourth to Left"
+    ],
+    "answer": "A) Third to the Left",
+    "explanation": "NA"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Akram, Bakhtawar, Changez, Dayud, Ekam, Farah, Gulrejr and Humayun are seated in   straight line facing north.   Changez sits fourth to the left of Gulrej. Dayud sits second to right of Gulrej.   Only two people sit between Dayud and Akram. Bakhtawar and Farah sits adjacent to each   other.   Humayun is not an immediate neighbor of Dayud.      How many persons are seated between Akram and Ekam?",
+    "choice": [
+      "A) One",
+      "B) Two",
+      "C) Three",
+      "D) Four"
+    ],
+    "answer": "A) One",
+    "explanation": "NA"
+  }
+]

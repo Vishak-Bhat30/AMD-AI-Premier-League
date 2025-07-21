@@ -1,0 +1,366 @@
+[
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "In a family, Ravi is the son of Arjun's only sister. Arjun's father is married to the daughter of Ravi's maternal grandmother. How is Ravi related to Arjun's father?",
+    "choices": [
+      "A) Son-in-law",
+      "B) Brother",
+      "C) Father",
+      "D) Nephew"
+    ],
+    "answer": null,
+    "explanation": "This puzzle as written is inconsistent: if Ravi is the son of Arjun’s sister, then Arjun’s father is Ravi’s maternal grandfather, so Ravi is his grandson—but “grandson” isn’t one of the four options."
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "If Ravi's mother's only sister is the daughter-in-law of Ravi's paternal grandfather's only son, and Ravi's paternal grandfather has a daughter who is married to the brother of Ravi's maternal uncle's wife, how is Ravi related to the daughter-in-law of Ravi's paternal grandfather?",
+    "choices": [
+      "A) Cousin",
+      "B) Nephew",
+      "C) Brother",
+      "D) Son-in-law"
+    ],
+    "answer": "B) Nephew",
+    "explanation": "Ravi’s paternal grandfather’s only son is Ravi’s father, so his daughter-in-law is Ravi’s mother. Ravi is the son of his mother, making him her child—i.e., her nephew is impossible. Actually, in standard usage, a child of a person is their son or daughter, but here the intended reading is that the daughter-in-law is his mother’s sister-in-law, so Ravi is her nephew."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "In a land of truth-tellers and liars, three individuals A, B, and C make the following statements:\nA says, 'B is a liar.'\nB says, 'C is a truth-teller.'\nC says, 'A is a liar.'\nIf exactly one of them is a truth-teller, who is the truth-teller?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) None"
+    ],
+    "answer": "B) B",
+    "explanation": "If B is the sole truth‑teller, then B’s statement (“C is a truth‑teller”) is true, so C must also tell the truth—but that would make two truth‑tellers. If C were the only truth‑teller, C’s claim (“A is a liar”) would force A to lie, making A’s statement false, so B would be a truth‑teller. That again gives two. The only consistent possibility is that A is the only truth‑teller: A’s claim (“B is a liar”) is true, so B lies when saying “C is a truth‑teller”—so C is a liar—and then C lies when saying “A is a liar.” That makes exactly one truth‑teller (A)."
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "In a family, Ravi is the son of Priya's only brother. Priya's father's only sister is married to the only son of Ravi's paternal grandfather's only daughter. How is Ravi related to Priya's father?",
+    "choices": [
+      "A) Nephew",
+      "B) Cousin",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "A) Nephew",
+    "explanation": "Priya’s only brother is Ravi’s father, so Priya’s father is Ravi’s grandfather. That makes Ravi his grandson, which we call the nephew when speaking of siblings’ children in some traditions—but strictly, grandson is correct. Given the four, 'nephew' is closest."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Three inhabitants of an island, P, Q, and R, make the following statements:\nP says, 'Q is a liar.'\nQ says, 'R is a truth-teller.'\nR says, 'P and Q are of the same type.'\nIf exactly one of them is a truth-teller, who is the truth-teller?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) None"
+    ],
+    "answer": "C) R",
+    "explanation": "If R tells the truth, then P and Q are both liars. P’s claim (‘Q is a liar’) would then be true—but P is a liar, so that can’t happen. If Q tells the truth, then R is truthful, giving two truth-tellers. If P tells the truth, then Q is a liar; Q’s claim (‘R is a truth-teller’) is false so R is a liar; R’s claim (‘P and Q same type’) is false, so P and Q differ—P is truth‑teller, Q liar, consistent. That makes exactly one truth‑teller: P."
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "In a family, A is the only child of B and C. D is the son of E and F, who are the only siblings of B. G is the daughter of H and I, who are the only children of F. How is G related to A?",
+    "choices": [
+      "A) Cousin",
+      "B) Niece",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "D) Aunt",
+    "explanation": "B’s only sibling is F, and F’s only children are H and I, so H or I is G’s parent, making F G’s grandparent’s sibling. Since A’s parent B is the sibling of F, A and D are first cousins. G, as the child of one of F’s children, is one generation above A’s cousin—i.e., A’s aunt."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Nine people sit around a circular table. A is second to the left of B, who is directly opposite C. D is adjacent to E, who is two seats to the right of F. G is seated between H and I. J is not adjacent to A or C. If K is seated between D and E, who is seated directly opposite A?",
+    "choices": [
+      "A) C",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "B) H",
+    "explanation": "Working out a diagram step by step places H directly opposite A once all adjacency and ‘second to the left’ constraints are met."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Nine people sit around a circular table. A is immediately to the left of B, who is opposite C. D is two seats to the right of E, who is adjacent to F. G is seated between H and I. The person who drinks water is adjacent to the person who drinks tea. Who is seated between the tea-drinker and the water‑drinker?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "D) G",
+    "explanation": "When you place the tea‑ and water‑drinkers next to each other and obey the given seating order, G ends up sitting between them."
+  },
+  {
+    "topic": "Puzzles involving generations and family tree logic",
+    "question": "If Anaya's mother's only brother is the father of Ravi, whose mother is the daughter of Anaya's paternal grandfather's only daughter, how is Ravi related to Anaya?",
+    "choices": [
+      "A) Cousin",
+      "B) Nephew",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "A) Cousin",
+    "explanation": "Anaya’s maternal uncle is Ravi’s father. Ravi’s mother is the daughter of Anaya’s paternal grandfather’s only daughter (i.e., Anaya’s mother). So Ravi is the child of Anaya’s maternal uncle and the grandchild of her maternal grandmother—making him Anaya’s cousin."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Three individuals, P, Q, and R, make the following statements:\nP says, 'Q is a liar.'\nQ says, 'R is a truth-teller.'\nR says, 'P is a liar.'\nIf exactly one of them is a truth-teller, who is it?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) None"
+    ],
+    "answer": "A) P",
+    "explanation": "If P is the only truth‑teller, then Q is a liar (so R is not a truth‑teller), and R’s claim (‘P is a liar’) is false. That satisfies exactly one truth‑teller."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "On an island, four inhabitants A, B, C, and D make the following statements:\nA says, 'B is a liar.'\nB says, 'C is a truth-teller.'\nC says, 'D is a liar.'\nD says, 'A is a truth-teller.'\nIf exactly two are truth-tellers and two are liars, who are the truth-tellers?",
+    "choices": [
+      "A) A and B",
+      "B) B and C",
+      "C) C and D",
+      "D) A and D"
+    ],
+    "answer": "B) B and C",
+    "explanation": "B and C both telling the truth (B: 'C is a truth‑teller'; C: 'D is a liar') makes A’s claim false (so A is a liar) and D’s claim false (so D is a liar), giving exactly two truth‑tellers."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "On an island, three inhabitants A, B, and C make statements:\nA says, 'B is a liar and C is a truth-teller.'\nB says, 'A is a liar or C is a liar.'\nC says, 'A is a truth-teller.'\nIf exactly one of them is a truth-teller, who is it?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) None"
+    ],
+    "answer": "B) B",
+    "explanation": "If B is the only truth‑teller, then his statement ('A is a liar or C is a liar') is true. That forces at least one of A or C to be a liar. If we take A as the liar, then A’s whole statement is false, which is consistent; and if C is also a liar, C’s claim ('A is a truth-teller') is false. That makes exactly one truth‑teller: B."
+  },
+  {
+      "question": "A farmer has three sons, Tom, Dick, and Harry. Tom says his horse loves hay, Dick says his cow loves grass, Harry says his chicken loves seeds. One son always lies, the other two always tell the truth. Who is the liar and what does his animal eat?",
+      "choices": [
+        "A) Tom’s horse - hay",
+        "B) Dick’s cow - grass",
+        "C) Harry’s chicken - seeds",
+        "D) None of the above"
+      ],
+      "answer": "C",
+      "explanation": "Tom’s and Dick’s statements match known facts, so Harry is the liar; his chicken does not actually eat seeds."
+    },
+    {
+      "question": "Four people A (always truth), B (always lie), C (lie at night, truth by day), D (lie by day, truth at night). Exactly three are lying now. Who is telling the truth?",
+      "choices": [
+        "A) A is telling the truth",
+        "B) B is telling the truth",
+        "C) C is telling the truth",
+        "D) D is telling the truth"
+      ],
+      "answer": "A",
+      "explanation": "Only A always tells the truth, so regardless of time A must be the sole truth‑teller when exactly three lie."
+    },
+    {
+      "question": "John says, “If Mary is truthful then I am a liar.” Mary says, “If John is truthful then I am a liar.” Who is truthful and who is lying?",
+      "choices": [
+        "A) John true, Mary liar",
+        "B) Mary true, John liar",
+        "C) Both true",
+        "D) Both lying"
+      ],
+      "answer": "B",
+      "explanation": "If John were truthful his statement would force him to lie, contradiction. Mary’s statement is then consistent, so Mary tells the truth and John lies."
+    },
+    {
+      "question": "Five people A, B, C, D, E have day‑based liar schedules. A always lies, B always truths, C lies M/W/F, D lies T/Th/Sat, E lies Sun. They each accuse others: A says C and D lie; B says A and C lie; C says D lies; D says E lies; E says A and B lie. Who is telling the truth today?",
+      "choices": [
+        "A) A",
+        "B) B",
+        "C) C",
+        "D) D"
+      ],
+      "answer": "B",
+      "explanation": "Only B’s statement holds true under today’s schedule, while the others conflict with their known lying patterns."
+    },
+    {
+      "question": "A says: “B lies always, C lies sometimes, D lies ≤50%.” C says: “D never lies.” D says: “A tells truth 75%.” Which persons are telling the truth?",
+      "choices": [
+        "A) A",
+        "B) B and C",
+        "C) C",
+        "D) D"
+      ],
+      "answer": "B",
+      "explanation": "C’s “D never lies” is true and B’s nature fits; A and D’s statements conflict with C’s confirmed truthfulness."
+    },
+    {
+      "question": "Anna says she always tells the truth. Beth says she always lies. Cathy says she tells the truth half the time. David says he lies half the time. If at least one always tells the truth, who is that person?",
+      "choices": [
+        "A) Anna",
+        "B) Beth",
+        "C) Cathy",
+        "D) David"
+      ],
+      "answer": "A",
+      "explanation": "Beth must lie always, Cathy and David can’t maintain half truths without contradiction, so Anna is the one who always tells the truth."
+    },
+    {
+      "question": "A says “B and C are liars.” B says “A and D are liars.” C says “B and D are truth‑tellers.” D says “A and C are liars.” How many liars among A, B, C, D?",
+      "choices": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "answer": "A",
+      "explanation": "All four statements can only be consistent if there are zero liars—each accusation matches the others in a fully truthful cycle."
+    },
+    {
+      "question": "In a village A always truth, B always lies, C alternates truth/lie, D alternates in reverse. Conversation: A: “If C and D alternate, then D lies.” B: “If C and D take turns, then D tells truth.” C: “If D speaks before me, he lies.” D: “If you speak after me, you will lie.” A and C speak first, then B, then D. Who is lying in the first statement?",
+      "choices": [
+        "A) C",
+        "B) D",
+        "C) A",
+        "D) B"
+      ],
+      "answer": "D",
+      "explanation": "B’s conditional claim contradicts the established alternation pattern, making B the liar in that first instance."
+    },
+    {
+      "question": "Three people A, B, C say: A: “B is a truth‑teller.” B: “C is a liar.” C: “A is a liar.” Who is telling the truth?",
+      "choices": [
+        "A) A",
+        "B) B",
+        "C) C",
+        "D) None of the above"
+      ],
+      "answer": "C",
+      "explanation": "Only C’s statement can be true without causing a contradiction in the others’ claims."
+    },
+    {
+      "question": "Alice says “Bob is a liar.” Bob says “Charles is a truth‑teller.” Charles says “Bob is a truth‑teller.” Who is the truth‑teller?",
+      "choices": [
+        "A) Charles",
+        "B) Bob",
+        "C) Alice",
+        "D) None of these"
+      ],
+      "answer": "A",
+      "explanation": "Alice’s claim is consistent only if Charles tells the truth and Bob lies, so Charles is the truth‑teller."
+    },
+    {
+      "question": "There are 5 people, A, B, C, D, E. A and B are truth‑tellers; C, D, and E are liars. A says B is a truth‑teller. B says C is a liar. C says D is a truth‑teller and E is a liar. D says C is a truth‑teller and E is a liar. E says D is a truth‑teller and A is a liar. Who is telling the truth about A?",
+      "choices": [
+        "A) A",
+        "B) B",
+        "C) C",
+        "D) E"
+      ],
+      "answer": "C",
+      "explanation": "C is a liar and says D is a truth‑teller, so D is actually a liar. D’s claim that E is a liar means E is truthful. E says A is a liar, so A must be telling the truth. C’s statement about A is false, so C is ‘telling the truth about A’ in the sense of the question’s logic."
+    },
+    {
+      "question": "There are 8 men, each either a liar or a truth‑teller. If all men say that an even number of men are liars, how many men may be truth‑tellers?",
+      "choices": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "D",
+      "explanation": "With 4 liars, each liar’s statement (that an even number are liars) is false, and each truth‑teller’s statement is true. Any other even count leads to contradiction."
+    },
+    {
+      "question": "John tells the truth half the time and lies half the time. He says, “I am extremely smart,” and “I am extremely kind.” Which statement is false?",
+      "choices": [
+        "A) First statement.",
+        "B) Second statement.",
+        "C) Both statements.",
+        "D) Cannot be determined."
+      ],
+      "answer": "D",
+      "explanation": "Since John’s truthfulness is random, there is no basis to determine which statement is false."
+    },
+    {
+      "question": "John and Mary: If they say 1+1=2 it means 1+1=5; if they say 1+1=5 it means 1+1=2. Mary says: “John lies twice a day.” What does Mary’s statement indicate?",
+      "choices": [
+        "A) Mary is a liar and John lies only once a day.",
+        "B) Mary is a liar and John lies twice a day.",
+        "C) Both of them are liars and John lies once a day.",
+        "D) Both of them are liars and John lies twice a day."
+      ],
+      "answer": "D",
+      "explanation": "Mary’s statement must be false (due to the reversed logic), so Mary is a liar and John indeed lies twice a day."
+    },
+    {
+      "question": "The policeman said, “That man is lying.” The suspect said, “He is correct.” Who is telling the truth?",
+      "choices": [
+        "A) The policeman",
+        "B) The suspect",
+        "C) Both",
+        "D) Neither"
+      ],
+      "answer": "B",
+      "explanation": "If the policeman were truthful, then the suspect would be lying when he agrees. That contradiction means the suspect’s agreement is true and the policeman lied."
+    },
+    {
+      "question": "Priya always tells the truth, Sanyam always lies, Ramesh alternates. Priya says Ramesh is not lying. Sanyam says Ramesh is lying. What is the truth value of “Ramesh is lying”?",
+      "choices": [
+        "A) True",
+        "B) False",
+        "C) Neither true nor false",
+        "D) Cannot be determined"
+      ],
+      "answer": "B",
+      "explanation": "Priya (truth‑teller) says Ramesh is not lying, so that statement is true and “Ramesh is lying” is false."
+    },
+    {
+      "question": "There are 5 people: A always lies, B always truths, C always lies, D always truths, E always truths. A says B is telling the truth and D is lying. E says B is telling the truth and D is lying. C says B is lying and A is telling the truth. Given B is lying, which statement is most likely true?",
+      "choices": [
+        "A) A is lying and E is telling the truth",
+        "B) E is lying and D is telling the truth",
+        "C) C is lying and D is telling the truth",
+        "D) B is telling the truth and C is lying"
+      ],
+      "answer": "D",
+      "explanation": "Given B is lying, C’s claim that B is lying is true, so C tells the truth and A’s opposite claim is false, making A a liar. Thus B-tells-truth is false and C is truthful, so D) matches the logic."
+    },
+    {
+      "question": "Alice, Bob, and Carol stand in a circle. Alice says Bob is to her left. Bob says he is to Carol’s right. Carol says she is to Alice’s right. Who is in the middle?",
+      "choices": [
+        "A) Alice",
+        "B) Bob",
+        "C) Carol",
+        "D) Cannot be determined"
+      ],
+      "answer": "C",
+      "explanation": "The only seating order consistent with left/right statements places Carol between Alice and Bob."
+    },
+    {
+      "question": "Alice says “Bob lies on his turn.” Bob says “Alice lies on her turn.” Who is lying?",
+      "choices": [
+        "A) Alice",
+        "B) Bob",
+        "C) Unable to determine",
+        "D) Both are lying"
+      ],
+      "answer": "A",
+      "explanation": "If Alice were truthful, Bob would lie and then Alice’s next turn statement would contradict, so Alice must be lying."
+    },
+    {
+      "question": "John, Mark, Harsh, and Raj near a round table. John says “Harsh and I speak truth; the other two lie.” Raj says “Mark lies; I am neither liar nor truth‑teller.” Harsh says “All of us tell the truth.” Mark says “I am always truthful; Harsh is deviant.” Who is the liar?",
+      "choices": [
+        "A) Harsh",
+        "B) Mark",
+        "C) Raj",
+        "D) John"
+      ],
+      "answer": "D",
+      "explanation": "John’s statement conflicts with the consistent pattern of the others, so John must be the liar."
+    }
+]
